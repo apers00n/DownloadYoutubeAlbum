@@ -2,7 +2,7 @@ from ytmusicapi import YTMusic
 
 yt = YTMusic()  # anonymous access (no login needed)
 
-query = "Chromakopia"
+query = "damn"
 results = yt.search(query, filter="albums")
 
 for album in results:
@@ -10,7 +10,7 @@ for album in results:
 
 print("\n\n\n")
 
-print(results)
+# print(results)
 
 print("\n\n\n")
 

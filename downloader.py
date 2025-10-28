@@ -155,6 +155,16 @@ def main():
             )
 
 
+def getAlbums(album_query: str):
+    yt = YTMusic()
+    results = yt.search(album_query, filter="albums")
+
+    if not results:
+        return {}
+
+    return results
+
+
 def download_album(album_query: str, genre: str = ""):
     yt = YTMusic()
     results = yt.search(album_query, filter="albums")

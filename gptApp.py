@@ -22,7 +22,7 @@ class AlbumTUI(App):
                 placeholder="Type album name here...", id="album_input"
             )
             yield self.input_widget
-            self.status_widget = Static("", id="status")
+            self.status_widget = Static("Nothing", id="status")
             yield self.status_widget
             self.list_view = ListView(id="album_list")
             yield self.list_view
@@ -30,11 +30,12 @@ class AlbumTUI(App):
 
     # Phase 1: handle search input
     def on_input_submitted(self, event: Input.Submitted) -> None:
+        self.status_widget.update("Searching YouTube Music...")
         query = event.value.strip()
         if not query:
             return
         self.album_query = query
-        self.status_widget.update("Searching YouTube Music...")
+
         self.set_focus(None)
         asyncio.create_task(self.search_albums(query))
 
