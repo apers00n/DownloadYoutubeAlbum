@@ -1,0 +1,61 @@
+* {
+  background: #f5d0f2;
+}
+
+#main-container {
+  border: heavy thick white;
+  padding: 1;
+  align: center middle;
+  width: auto;
+}
+
+Header,
+Footer,
+Static {
+  color: white;
+  text-style: bold;
+}
+
+#title {
+  color: white;
+  padding-bottom: 1;
+  text-style: bold;
+  width: 70%;
+  content-align: center middle; /* vertical alignment */
+}
+
+/* Center container */
+#text-container {
+  width: 70%;
+  height: auto;
+  align: center middle;
+  content-align: center middle;
+}
+#inner-text-container {
+  content-align: center middle;
+  border: heavy white;
+  height: auto;
+  width: 50%;
+}
+
+SelectCurrent,
+SelectCurrent:focus {
+  border: heavy #f8dcf5;
+  background: #f8dcf5;
+  color: #ff90f0;
+  height: auto;
+  text-align: center;
+  text-style: bold;
+  width: 100%;
+}
+
+Input {
+  padding: 0 0 2 2;
+  border: none;
+  background: #f8dcf5;
+  color: #ff90f0;
+  height: auto;
+  text-align: center;
+  text-style: bold;
+  width: 100%;
+}
