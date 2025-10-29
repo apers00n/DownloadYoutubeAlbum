@@ -5,10 +5,12 @@ import os
 import questionary
 import re
 from mutagen.mp3 import MP3
-from mutagen.id3._frames import TIT2, TALB, TPE1, TRCK, TCON, APIC
+from mutagen.id3._frames import APIC
 import sys
 from getGenres import get_album_genres
 from mutagen.easyid3 import EasyID3
+
+DEFAULT_PATH = "~/Downloads"
 
 if "genre" not in EasyID3.valid_keys:
     EasyID3.RegisterTextKey("genre", "TCON")
@@ -31,7 +33,13 @@ def download_image(url, file_path):
 
 def set_album_art(audio_file_path, image_file_path):
     audio = MP3(audio_file_path)
+
+    if audio.tags is None:
+        audio.add_tags()
+        assert audio.tags is not None
+
     audio.tags.delall("APIC")
+
     with open(image_file_path, "rb") as img_file:
         audio.tags.add(
             APIC(
@@ -42,6 +50,7 @@ def set_album_art(audio_file_path, image_file_path):
                 data=img_file.read(),
             )
         )
+
     audio.save()
 
 
@@ -114,7 +123,7 @@ def main():
     YEAR = album_data["year"]
     GENRES = get_album_genres(ARTIST, ALBUM)
 
-    output_dir = os.path.join(os.path.expanduser("~/Downloads"), ALBUM)
+    output_dir = os.path.join(os.path.expanduser(DEFAULT_PATH), ALBUM)
     os.makedirs(output_dir, exist_ok=False)
 
     cover_path = os.path.join(output_dir, "cover.jpg")
