@@ -7,6 +7,7 @@ import re
 from mutagen.mp3 import MP3
 from mutagen.id3._frames import TIT2, TALB, TPE1, TRCK, TCON, APIC
 import sys
+from getGenres import get_album_genres
 
 
 def safe_filename(name: str) -> str:
@@ -125,6 +126,7 @@ def main():
     ALBUM = album_data["title"]
     ARTIST = album_data["artists"][0]["name"]
     COVER_URL = album_data["thumbnails"][-1]["url"]
+    GENRES = get_album_genres(ARTIST, ALBUM)
 
     output_dir = os.path.join(os.path.expanduser("~/Downloads"), ALBUM)
     os.makedirs(output_dir, exist_ok=False)
@@ -132,7 +134,6 @@ def main():
     cover_path = os.path.join(output_dir, "cover.jpg")
     download_image(COVER_URL, cover_path)
 
-    # Download each song
     for i, track in enumerate(album_data["tracks"], start=1):
         title = track["title"]
         video_id = track.get("videoId")
@@ -153,6 +154,7 @@ def main():
                 len(album_data["tracks"]),
                 ARTIST,
                 cover_path,
+                GENRES,
             )
 
 
@@ -164,41 +166,6 @@ def getAlbums(album_query: str):
         return {}
 
     return results
-
-
-def download_album(album_data, genre: str = ""):
-    ALBUM = album_data["title"]
-    ARTIST = album_data["artists"][0]["name"]
-    COVER_URL = album_data["thumbnails"][-1]["url"]
-
-    output_dir = os.path.join(os.path.expanduser("~/Downloads"), ALBUM)
-    os.makedirs(output_dir, exist_ok=True)
-
-    cover_path = os.path.join(output_dir, "cover.jpg")
-    download_image(COVER_URL, cover_path)
-
-    total_tracks = len(album_data["tracks"])
-    for i, track in enumerate(album_data["tracks"], start=1):
-        title = track["title"]
-        video_id = track.get("videoId")
-        if not video_id:
-            continue
-
-        download_song(video_id, output_dir, i, title)
-        file_path = os.path.join(output_dir, f"{i:02d} - {safe_filename(title)}.mp3")
-        if os.path.exists(file_path):
-            update_metadata(
-                file_path,
-                title,
-                ALBUM,
-                i,
-                total_tracks,
-                ARTIST,
-                cover_path,
-                genre,
-            )
-
-    return ALBUM, ARTIST, total_tracks
 
 
 if __name__ == "__main__":

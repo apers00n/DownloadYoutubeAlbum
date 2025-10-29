@@ -4,13 +4,9 @@ from textual.screen import Screen
 from textual.widgets import Static, Button
 from textual.containers import Vertical
 from pyfiglet import Figlet
-from downloader import (
-    download_image,
-    download_song,
-    update_metadata,
-    safe_filename,
-)
+from downloader import download_image, download_song, update_metadata, safe_filename
 from ytmusicapi import YTMusic
+from getGenres import get_album_genres
 
 yt = YTMusic()
 
@@ -41,20 +37,27 @@ class ArtistScreen(Screen):
 
     async def on_button_pressed(self, event: Button.Pressed):
         if event.button.id == "download-btn":
-            asyncio.create_task(self.download())  # don't await
+            asyncio.create_task(self.download())
 
     async def download(self):
         album_data = yt.get_album(self.album_data["browseId"])
         ALBUM = album_data["title"]
         ARTIST = album_data["artists"][0]["name"]
         COVER_URL = album_data["thumbnails"][-1]["url"]
+        GENRES = get_album_genres(ARTIST, ALBUM)
 
         output_dir = os.path.join(os.path.expanduser("~/Downloads"), ALBUM)
-        os.makedirs(output_dir, exist_ok=False)
+        os.makedirs(output_dir, exist_ok=True)
 
         cover_path = os.path.join(output_dir, "cover.jpg")
-        download_image(COVER_URL, cover_path)
-        # await asyncio.to_thread(download_image, COVER_URL, cover_path)
+        await asyncio.to_thread(download_image, COVER_URL, cover_path)
+
+        track_widgets = []
+        for i, track in enumerate(album_data["tracks"], start=1):
+            title = track["title"]
+            btn = Static(f"{i}. {title}", classes="song song-default")
+            track_widgets.append(btn)
+            await self.main.mount(btn)
 
         for i, track in enumerate(album_data["tracks"], start=1):
             title = track["title"]
@@ -62,19 +65,16 @@ class ArtistScreen(Screen):
             if not video_id:
                 continue
 
-            btn = Static(f"{i}. {title}", classes="song song-downloading")
-            await self.main.mount(btn)
+            btn = track_widgets[i - 1]
 
-            # let UI render immediately
             self.refresh()
             await asyncio.sleep(0)
 
-            # Run download in a separate thread (non-blocking)
             await asyncio.to_thread(download_song, video_id, output_dir, i, title)
 
-            download_song(video_id, output_dir, i, title)
-
-            file_path = os.path.join(output_dir, f"{i:02d} - {title}.mp3")
+            file_path = os.path.join(
+                output_dir, f"{i:02d} - {safe_filename(title)}.mp3"
+            )
             if os.path.exists(file_path):
                 update_metadata(
                     file_path,
@@ -84,6 +84,7 @@ class ArtistScreen(Screen):
                     len(album_data["tracks"]),
                     ARTIST,
                     cover_path,
+                    GENRES,
                 )
 
             btn.update(f"{i}. {title}")

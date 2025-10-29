@@ -41,10 +41,17 @@ LoadingIndicator {
   scrollbar-size: 1 0;
   align: center top;
 }
-.song-downloading {
+.song-default {
   color: #f6b5f7;
 }
+.song-downloading {
+  /* color: white; */
+  color: #f6b5f7;
+
+  text-style: bold;
+}
 .song-downloaded {
+  text-style: bold;
   color: #f788ff;
 }
 

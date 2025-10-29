@@ -2,10 +2,8 @@ from textual.app import App, ComposeResult
 from textual.widgets import Footer, Input, Button, LoadingIndicator, Static
 from textual.containers import Container, Vertical, VerticalScroll
 from textual.reactive import reactive
-from textual.screen import Screen
 from art import text2art
 from downloader import getAlbums
-import asyncio
 from artistScreen import ArtistScreen  # import from separate file
 
 
@@ -14,8 +12,10 @@ class AlbumTUI(App):
     album_name = reactive("")
 
     def compose(self) -> ComposeResult:
+        headerText = str(text2art("What     Album?", font="tarty1-large"))
+
         with Vertical(id="main-container") as self.main_container:
-            yield Static(text2art("What     Album?", font="tarty1-large"), id="title")
+            yield Static(headerText, id="title")
             with Container(id="text-container") as self.outer_container:
                 with Container(id="inner-text-container") as self.inner_container:
                     self.album_input = Input(
@@ -43,7 +43,7 @@ class AlbumTUI(App):
 
         for album in results:
             btn = Button(album["title"], classes="append")
-            btn.album_data = album  # attach full album info
+            btn.album_data = album
             await self.scroll_container.mount(btn)
 
     async def on_button_pressed(self, event: Button.Pressed) -> None:
