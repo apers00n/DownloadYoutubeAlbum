@@ -10,7 +10,7 @@ for album in results:
 
 print("\n\n\n")
 
-# print(results)
+print(results)
 
 print("\n\n\n")
 

@@ -1,25 +1,12 @@
 from textual.app import App, ComposeResult
-from textual.widgets import (
-    Footer,
-    Input,
-    Static,
-    LoadingIndicator,
-)
+from textual.widgets import Footer, Input, Button, LoadingIndicator, Static
 from textual.containers import Container, Vertical, VerticalScroll
 from textual.reactive import reactive
-from art import text2art
-from downloader import download_album, getAlbums
 from textual.screen import Screen
+from art import text2art
+from downloader import getAlbums
 import asyncio
-
-
-class StatusScreen(Screen):
-    def __init__(self, message: str):
-        super().__init__()
-        self.message = message
-
-    def compose(self):
-        yield Static(self.message)
+from artistScreen import ArtistScreen  # import from separate file
 
 
 class AlbumTUI(App):
@@ -38,17 +25,6 @@ class AlbumTUI(App):
 
             yield Footer()
 
-    async def show_loading(self):
-        # Create the loading indicator
-        self.loading = LoadingIndicator()
-        await self.main_container.mount(self.loading)
-
-        # Wait a few seconds to simulate work
-        await asyncio.sleep(3)
-
-        # Unmount it when done
-        await self.loading.remove()  # <-- unmount
-
     async def on_input_submitted(self, event: Input.Submitted) -> None:
         album_name = event.value.strip()
         if not album_name:
@@ -56,17 +32,26 @@ class AlbumTUI(App):
 
         self.loading = LoadingIndicator()
         await self.main_container.mount(self.loading)
-
         results = getAlbums(album_name)
         await self.loading.remove()
 
         if hasattr(self, "scroll_container"):
             await self.scroll_container.remove()
-        self.scroll_container = VerticalScroll(id="scroll-container", classes="right")
+
+        self.scroll_container = VerticalScroll(id="scroll-container")
         await self.outer_container.mount(self.scroll_container)
 
         for album in results:
-            self.scroll_container.mount(Static(album["title"], classes="append"))
+            btn = Button(album["title"], classes="append")
+            btn.album_data = album  # attach full album info
+            await self.scroll_container.mount(btn)
+
+    async def on_button_pressed(self, event: Button.Pressed) -> None:
+        button = event.button
+        if hasattr(button, "album_data"):
+            await self.push_screen(ArtistScreen(button.album_data))
+        elif button.id == "back-btn":
+            await self.pop_screen()
 
 
 if __name__ == "__main__":

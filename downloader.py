@@ -1,11 +1,11 @@
 import yt_dlp
 from ytmusicapi import YTMusic
-from mutagen.mp3 import MP3
-from mutagen.id3 import ID3, TIT2, TALB, TPE1, TRCK, TCON, APIC, ID3NoHeaderError
 import requests
 import os
 import questionary
 import re
+from mutagen.mp3 import MP3
+from mutagen.id3._frames import TIT2, TALB, TPE1, TRCK, TCON, APIC
 import sys
 
 
@@ -30,11 +30,7 @@ def download_image(url, file_path):
 
 
 def set_album_art(audio_file_path, image_file_path):
-    try:
-        audio = MP3(audio_file_path, ID3=ID3)
-    except ID3NoHeaderError:
-        audio = MP3(audio_file_path)
-        audio.add_tags()
+    audio = MP3(audio_file_path)
     audio.tags.delall("APIC")
     with open(image_file_path, "rb") as img_file:
         audio.tags.add(
@@ -59,9 +55,12 @@ def update_metadata(
     cover_image_path,
     genre="",
 ):
-    audio = MP3(file_path, ID3=ID3)
-    audio.delete()
-    audio.save()
+    set_album_art(file_path, cover_image_path)
+    audio = MP3(file_path)
+
+    # ensure tags exist
+    if audio.tags is None:
+        audio.add_tags()
 
     unwanted_phrases = [
         r"\s\(Official Video\)",
@@ -73,13 +72,15 @@ def update_metadata(
     for phrase in unwanted_phrases:
         title = re.sub(phrase, "", title)
 
+    # update tags
     audio.tags.add(TIT2(encoding=3, text=title))
     audio.tags.add(TALB(encoding=3, text=album))
     audio.tags.add(TPE1(encoding=3, text=artist))
     audio.tags.add(TRCK(encoding=3, text=f"{track_number}/{total_tracks}"))
     audio.tags.add(TCON(encoding=3, text=genre))
     audio.save()
-    set_album_art(file_path, cover_image_path)
+
+    # set cover art last
 
 
 def download_song(video_id, output_path, index, title):
@@ -139,7 +140,7 @@ def main():
             print(f"Skipping {title} (no video ID)")
             continue
 
-        print(f"⬇️ {i:02d}/{len(album_data['tracks'])}: {title}")
+        print(f" {i:02d}/{len(album_data['tracks'])}: {title}")
         download_song(video_id, output_dir, i, title)
 
         file_path = os.path.join(output_dir, f"{i:02d} - {title}.mp3")
@@ -165,17 +166,7 @@ def getAlbums(album_query: str):
     return results
 
 
-def download_album(album_query: str, genre: str = ""):
-    yt = YTMusic()
-    results = yt.search(album_query, filter="albums")
-
-    if not results:
-        raise ValueError("No albums found on YouTube Music.")
-
-    album = results[0]
-    album_id = album["browseId"]
-    album_data = yt.get_album(album_id)
-
+def download_album(album_data, genre: str = ""):
     ALBUM = album_data["title"]
     ARTIST = album_data["artists"][0]["name"]
     COVER_URL = album_data["thumbnails"][-1]["url"]

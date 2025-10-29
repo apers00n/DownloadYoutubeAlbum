@@ -30,11 +30,24 @@ LoadingIndicator {
   height: auto;
   padding-top: 1;
 }
+.pink-text {
+  color: #ff91f0;
+}
+#song-title {
+  width: auto;
+}
 #scroll-container {
   width: 50%;
   scrollbar-size: 1 0;
   align: center top;
 }
+.song-downloading {
+  color: #f6b5f7;
+}
+.song-downloaded {
+  color: #f788ff;
+}
+
 VerticalScroll {
   scrollbar-background: orange;
 }
@@ -51,7 +64,16 @@ VerticalScroll {
   height: auto;
   width: 50%;
 }
-
+#back-btn,
+#download-btn {
+  padding: 0;
+  margin: 0;
+  border: heavy white;
+  color: #ff90f0;
+  height: auto;
+  text-align: center;
+  text-style: bold;
+}
 .append {
   padding: 0;
   margin: 0;
