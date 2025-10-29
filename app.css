@@ -22,7 +22,7 @@ Static {
   padding-bottom: 1;
   text-style: bold;
   width: 70%;
-  content-align: center middle; /* vertical alignment */
+  content-align: center middle;
 }
 LoadingIndicator {
   color: white;

@@ -30,7 +30,8 @@ def get_album_genres(artist_name: str, album_name: str) -> str:
     token = get_token(USERNAME, PASSWORD)
     url = "https://api.getgenre.com/search"
     headers = {"Authorization": f"Bearer {token}"}
-    params = {"artist_name": artist_name, "album_name": album_name, "timeout": 30}
+    params = {"artist_name": artist_name,
+              "album_name": album_name, "timeout": 30}
     response = requests.get(url, headers=headers, params=params)
     response.raise_for_status()
     data = response.json()
@@ -40,8 +41,8 @@ def get_album_genres(artist_name: str, album_name: str) -> str:
 
 
 if __name__ == "__main__":
-    artist = "Billie Eilish"
-    album = "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"
+    artist = "Daniel Caesar"
+    album = "Freudian"
 
     genres_str = get_album_genres(artist, album)
 

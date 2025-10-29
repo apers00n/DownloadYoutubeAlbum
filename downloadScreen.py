@@ -14,7 +14,7 @@ straight = Figlet(font="chunky", width=175)
 small = Figlet(font="doom", width=175)
 
 
-class ArtistScreen(Screen):
+class DownloadScreen(Screen):
     """A screen that shows info about an album."""
 
     def __init__(self, album_data: dict):
@@ -29,7 +29,8 @@ class ArtistScreen(Screen):
                 classes="pink-text",
             )
             yield Static(
-                straight.renderText(f"{self.album_data['artists'][0]['name']}"),
+                straight.renderText(
+                    f"{self.album_data['artists'][0]['name']}"),
                 classes="pink-text",
             )
             yield Button("Download", id="download-btn")
@@ -45,6 +46,7 @@ class ArtistScreen(Screen):
         ARTIST = album_data["artists"][0]["name"]
         COVER_URL = album_data["thumbnails"][-1]["url"]
         GENRES = get_album_genres(ARTIST, ALBUM)
+        YEAR = album_data["year"]
 
         output_dir = os.path.join(os.path.expanduser("~/Downloads"), ALBUM)
         os.makedirs(output_dir, exist_ok=True)
@@ -85,6 +87,7 @@ class ArtistScreen(Screen):
                     ARTIST,
                     cover_path,
                     GENRES,
+                    YEAR,
                 )
 
             btn.update(f"{i}. {title}")

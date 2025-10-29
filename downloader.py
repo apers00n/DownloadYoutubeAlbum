@@ -8,15 +8,14 @@ from mutagen.mp3 import MP3
 from mutagen.id3._frames import TIT2, TALB, TPE1, TRCK, TCON, APIC
 import sys
 from getGenres import get_album_genres
+from mutagen.easyid3 import EasyID3
+
+if "genre" not in EasyID3.valid_keys:
+    EasyID3.RegisterTextKey("genre", "TCON")
 
 
 def safe_filename(name: str) -> str:
-    """
-    Replace filesystem-unsafe characters in filenames.
-    """
-    # Replace slashes and other invalid characters
     name = re.sub(r'[\\/:"*?<>|]+', "_", name)
-    # Strip leading/trailing spaces and dots
     return name.strip().strip(".")
 
 
@@ -55,33 +54,19 @@ def update_metadata(
     artist,
     cover_image_path,
     genre="",
+    year="",
 ):
-    set_album_art(file_path, cover_image_path)
-    audio = MP3(file_path)
+    audio = MP3(file_path, ID3=EasyID3)
 
-    # ensure tags exist
-    if audio.tags is None:
-        audio.add_tags()
+    audio["title"] = title
+    audio["tracknumber"] = f"{track_number}/{total_tracks}"
+    audio["artist"] = artist
+    audio["album"] = album
+    audio["genre"] = genre
+    audio["date"] = year
 
-    unwanted_phrases = [
-        r"\s\(Official Video\)",
-        r"\s\(Official Audio\)",
-        r"\s\[Official Audio\]",
-        r"\s\(Audio\)",
-        rf"^{re.escape(artist)}\s-\s",
-    ]
-    for phrase in unwanted_phrases:
-        title = re.sub(phrase, "", title)
-
-    # update tags
-    audio.tags.add(TIT2(encoding=3, text=title))
-    audio.tags.add(TALB(encoding=3, text=album))
-    audio.tags.add(TPE1(encoding=3, text=artist))
-    audio.tags.add(TRCK(encoding=3, text=f"{track_number}/{total_tracks}"))
-    audio.tags.add(TCON(encoding=3, text=genre))
     audio.save()
-
-    # set cover art last
+    set_album_art(file_path, cover_image_path)
 
 
 def download_song(video_id, output_path, index, title):
@@ -126,6 +111,7 @@ def main():
     ALBUM = album_data["title"]
     ARTIST = album_data["artists"][0]["name"]
     COVER_URL = album_data["thumbnails"][-1]["url"]
+    YEAR = album_data["year"]
     GENRES = get_album_genres(ARTIST, ALBUM)
 
     output_dir = os.path.join(os.path.expanduser("~/Downloads"), ALBUM)
@@ -155,6 +141,7 @@ def main():
                 ARTIST,
                 cover_path,
                 GENRES,
+                YEAR,
             )
 
 

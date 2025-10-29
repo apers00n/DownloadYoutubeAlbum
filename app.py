@@ -4,7 +4,7 @@ from textual.containers import Container, Vertical, VerticalScroll
 from textual.reactive import reactive
 from art import text2art
 from downloader import getAlbums
-from artistScreen import ArtistScreen  # import from separate file
+from downloadScreen import DownloadScreen
 
 
 class AlbumTUI(App):
@@ -49,7 +49,7 @@ class AlbumTUI(App):
     async def on_button_pressed(self, event: Button.Pressed) -> None:
         button = event.button
         if hasattr(button, "album_data"):
-            await self.push_screen(ArtistScreen(button.album_data))
+            await self.push_screen(DownloadScreen(button.album_data))
         elif button.id == "back-btn":
             await self.pop_screen()
 
