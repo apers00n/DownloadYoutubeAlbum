@@ -131,7 +131,13 @@ def main():
 
     for i, track in enumerate(album_data["tracks"], start=1):
         title = track["title"]
-        video_id = track.get("videoId")
+        video_id = track["videoId"]
+
+        if track["videoType"] == "MUSIC_VIDEO_TYPE_OMV":
+            newId = get_video_id(ALBUM, title)
+            if newId is not None:
+                video_id = newId
+
         if not video_id:
             print(f"Skipping {title} (no video ID)")
             continue
@@ -152,6 +158,18 @@ def main():
                 GENRES,
                 YEAR,
             )
+
+
+def get_video_id(album_title, song_title):
+    yt = YTMusic()
+    songs_list = yt.search(song_title, filter="songs")
+    for song in songs_list:
+        if (
+            song.get("title", "").lower() == song_title.lower()
+            and song.get("album", {}).get("name", "").lower() == album_title.lower()
+        ):
+            return song.get("videoId")
+    return None
 
 
 def getAlbums(album_query: str):

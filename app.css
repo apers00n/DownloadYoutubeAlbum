@@ -8,6 +8,7 @@
   align: center top;
   padding-top: 10;
   width: auto;
+  content-align: center middle;
 }
 
 Header,
@@ -21,7 +22,7 @@ Static {
   color: white;
   padding-bottom: 1;
   text-style: bold;
-  width: 70%;
+  width: 100%;
   content-align: center middle;
 }
 LoadingIndicator {
@@ -60,7 +61,7 @@ VerticalScroll {
 }
 /* Center container */
 #text-container {
-  width: 70%;
+  width: 100%;
   height: auto;
   align: center middle;
   content-align: center middle;
