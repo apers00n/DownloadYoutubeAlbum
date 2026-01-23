@@ -9,6 +9,7 @@ from mutagen.id3._frames import APIC
 import sys
 from getGenres import get_album_genres
 from mutagen.easyid3 import EasyID3
+from send2trash import send2trash
 
 DEFAULT_PATH = "~/Downloads"
 
@@ -79,10 +80,15 @@ def update_metadata(
 
 
 def download_song(video_id, output_path, index, title):
-    title = safe_filename(title)
-    url = f"https://music.youtube.com/watch?v={video_id}"
+    # title = safe_filename(title)
+    url = f"https://youtube.com/watch?v={video_id}"
     ydl_opts = {
-        "format": "bestaudio/best",
+        "format": (
+            "bestaudio[ext=m4a][protocol=https]/bestaudio[ext=webm]/bestaudio/best"
+        ),
+        "noplaylist": True,
+        "force_ipv4": True,
+        # "cookiesfrombrowser": ("vivaldi", "Default"),
         "outtmpl": os.path.join(output_path, f"{index:02d} - {title}.%(ext)s"),
         "postprocessors": [
             {
@@ -131,6 +137,7 @@ def main():
 
     for i, track in enumerate(album_data["tracks"], start=1):
         title = track["title"]
+        title = safe_filename(title)
         video_id = track["videoId"]
 
         if track["videoType"] == "MUSIC_VIDEO_TYPE_OMV":
@@ -142,7 +149,7 @@ def main():
             print(f"Skipping {title} (no video ID)")
             continue
 
-        print(f" {i:02d}/{len(album_data['tracks'])}: {title}")
+        print(f" {i:02d}/{len(album_data['tracks'])}: {title} - {video_id}")
         download_song(video_id, output_dir, i, title)
 
         file_path = os.path.join(output_dir, f"{i:02d} - {title}.mp3")
@@ -158,6 +165,7 @@ def main():
                 GENRES,
                 YEAR,
             )
+    send2trash(cover_path)
 
 
 def get_video_id(album_title, song_title):
