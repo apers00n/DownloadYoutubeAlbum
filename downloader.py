@@ -10,6 +10,7 @@ import sys
 from getGenres import get_album_genres
 from mutagen.easyid3 import EasyID3
 from send2trash import send2trash
+from mutagen.mp4 import MP4, MP4Cover
 
 DEFAULT_PATH = "~/Downloads"
 
@@ -65,18 +66,24 @@ def update_metadata(
     cover_image_path,
     genre="",
     year="",
+    explicit=0,
 ):
-    audio = MP3(file_path, ID3=EasyID3)
+    audio = MP4(file_path)
 
-    audio["title"] = title
-    audio["tracknumber"] = f"{track_number}/{total_tracks}"
-    audio["artist"] = artist
-    audio["album"] = album
-    audio["genre"] = genre
-    audio["date"] = year
+    audio["\xa9nam"] = title
+    audio["\xa9alb"] = album
+    audio["\xa9ART"] = artist
+    audio["aART"] = artist
+    audio["trkn"] = [(track_number, total_tracks)]
+    audio["\xa9gen"] = genre
+    audio["\xa9day"] = year
+    audio["rtng"] = [explicit]
+
+    if cover_image_path:
+        with open(cover_image_path, "rb") as img:
+            audio["covr"] = [MP4Cover(img.read(), imageformat=MP4Cover.FORMAT_PNG)]
 
     audio.save()
-    set_album_art(file_path, cover_image_path)
 
 
 def download_song(video_id, output_path, index, title):
@@ -93,8 +100,8 @@ def download_song(video_id, output_path, index, title):
         "postprocessors": [
             {
                 "key": "FFmpegExtractAudio",
-                "preferredcodec": "mp3",
-                "preferredquality": "192",
+                "preferredcodec": "m4a",
+                "preferredquality": "256",
             }
         ],
         "quiet": True,
@@ -104,6 +111,38 @@ def download_song(video_id, output_path, index, title):
     }
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         ydl.download([url])
+
+
+def get_best_album_version_playlist_id(album_browse_id: str):
+    """
+    Finds the album version with the most tracks.
+    If tied, prefers the explicit version.
+    Returns the album browseId (playlist ID).
+    """
+    yt = YTMusic()
+
+    # Default album
+    default_album_id = album_browse_id  # results[0]["browseId"]
+    default_album = yt.get_album(default_album_id)
+
+    albums_to_compare = [default_album]
+
+    # 2) Collect other versions
+    for version in default_album.get("other_versions", []):
+        try:
+            albums_to_compare.append(yt.get_album(version["browseId"]))
+        except Exception:
+            pass  # skip broken versions safely
+
+    # 3) Choose best version
+    def score(album):
+        track_count = len(album.get("tracks", []))
+        is_explicit = album.get("isExplicit", False)
+        return (track_count, is_explicit)
+
+    best_album = max(albums_to_compare, key=score)
+
+    return best_album
 
 
 def main():
@@ -119,9 +158,8 @@ def main():
         print("No albums found on YouTube Music.")
         return
 
-    album = results[0]
-    album_id = album["browseId"]
-    album_data = yt.get_album(album_id)
+    first_album = results[0]
+    album_data = get_best_album_version_playlist_id(first_album["browseId"])
 
     ALBUM = album_data["title"]
     ARTIST = album_data["artists"][0]["name"]
@@ -139,6 +177,7 @@ def main():
         title = track["title"]
         title = safe_filename(title)
         video_id = track["videoId"]
+        explicit = 1 if track["isExplicit"] else 0
 
         if track["videoType"] == "MUSIC_VIDEO_TYPE_OMV":
             newId = get_video_id(ALBUM, title)
@@ -152,11 +191,11 @@ def main():
         print(f" {i:02d}/{len(album_data['tracks'])}: {title} - {video_id}")
         download_song(video_id, output_dir, i, title)
 
-        file_path = os.path.join(output_dir, f"{i:02d} - {title}.mp3")
+        file_path = os.path.join(output_dir, f"{i:02d} - {title}.m4a")
         if os.path.exists(file_path):
             update_metadata(
                 file_path,
-                title,
+                track["title"],
                 ALBUM,
                 i,
                 len(album_data["tracks"]),
@@ -164,6 +203,7 @@ def main():
                 cover_path,
                 GENRES,
                 YEAR,
+                explicit,
             )
     send2trash(cover_path)
 
