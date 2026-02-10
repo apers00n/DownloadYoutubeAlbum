@@ -11,6 +11,8 @@ from getGenres import get_album_genres
 from mutagen.easyid3 import EasyID3
 from send2trash import send2trash
 from mutagen.mp4 import MP4, MP4Cover
+from datetime import datetime
+from lyrics import getLyrics
 
 DEFAULT_PATH = "~/Downloads"
 
@@ -62,26 +64,36 @@ def update_metadata(
     album,
     track_number,
     total_tracks,
-    artist,
+    album_artist,
+    artists,
     cover_image_path,
     genre="",
     year="",
     explicit=0,
+    lyrics="",
+    video_id="",
 ):
     audio = MP4(file_path)
 
     audio["\xa9nam"] = title
     audio["\xa9alb"] = album
-    audio["\xa9ART"] = artist
-    audio["aART"] = artist
+    audio["aART"] = album_artist
+    audio["\xa9ART"] = artists
     audio["trkn"] = [(track_number, total_tracks)]
     audio["\xa9gen"] = genre
     audio["\xa9day"] = year
     audio["rtng"] = [explicit]
+    audio["\xa9lyr"] = lyrics
+    audio["----:com.apple.iTunes:DOWNLOADED_DATE"] = [
+        datetime.now().isoformat().encode("utf-8")
+    ]
+    if video_id != "":
+        audio["----:com.apple.iTunes:YT_URL"] = [video_id.encode("utf-8")]
 
     if cover_image_path:
         with open(cover_image_path, "rb") as img:
-            audio["covr"] = [MP4Cover(img.read(), imageformat=MP4Cover.FORMAT_PNG)]
+            audio["covr"] = [
+                MP4Cover(img.read(), imageformat=MP4Cover.FORMAT_PNG)]
 
     audio.save()
 
@@ -175,6 +187,9 @@ def main():
 
     for i, track in enumerate(album_data["tracks"], start=1):
         title = track["title"]
+        original_title = re.sub(
+            r"\s*\(feat\..*?\)", "", title, flags=re.IGNORECASE
+        ).strip()
         title = safe_filename(title)
         video_id = track["videoId"]
         explicit = 1 if track["isExplicit"] else 0
@@ -188,22 +203,27 @@ def main():
             print(f"Skipping {title} (no video ID)")
             continue
 
+        genius_data = getLyrics(original_title, ARTIST)
+
         print(f" {i:02d}/{len(album_data['tracks'])}: {title} - {video_id}")
         download_song(video_id, output_dir, i, title)
 
         file_path = os.path.join(output_dir, f"{i:02d} - {title}.m4a")
         if os.path.exists(file_path):
             update_metadata(
-                file_path,
-                track["title"],
-                ALBUM,
-                i,
-                len(album_data["tracks"]),
-                ARTIST,
-                cover_path,
-                GENRES,
-                YEAR,
-                explicit,
+                file_path=file_path,
+                title=original_title,
+                album=ALBUM,
+                track_number=i,
+                total_tracks=len(album_data["tracks"]),
+                album_artist=ARTIST,
+                artists=", ".join([ARTIST] + genius_data["features"]),
+                cover_image_path=cover_path,
+                genre=GENRES,
+                year=YEAR,
+                explicit=explicit,
+                lyrics=genius_data["lyrics"],
+                video_id=video_id,
             )
     send2trash(cover_path)
 

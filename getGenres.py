@@ -37,12 +37,12 @@ def get_album_genres(artist_name: str, album_name: str) -> str:
     data = response.json()
 
     genres = data.get("top_genres") or []
-    return ", ".join(genres)
+    return (", ".join(genres)).title()
 
 
 if __name__ == "__main__":
-    artist = "Daniel Caesar"
-    album = "Freudian"
+    artist = "Ariana Grande"
+    album = "Dangerous Woman"
 
     genres_str = get_album_genres(artist, album)
 
