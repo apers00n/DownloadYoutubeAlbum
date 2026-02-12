@@ -1,0 +1,3006 @@
+[
+    {
+        "title": "eternal sunshine (slightly deluxe)",
+        "type": "Album",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w226-h226-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w544-h544-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ],
+        "isExplicit": true,
+        "description": null,
+        "year": "2024",
+        "artists": [
+            {
+                "name": "Ariana Grande",
+                "id": "UC0076UMUgEng8HORUw_MYHA"
+            }
+        ],
+        "trackCount": 17,
+        "duration": "47 minutes",
+        "audioPlaylistId": "OLAK5uy_kQF1D-3BrTCPp38u3eZx5iPgbY2x8wIAg",
+        "likeStatus": "INDIFFERENT",
+        "tracks": [
+            {
+                "videoId": "p7jATa6Soag",
+                "title": "intro (end of the world)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": true,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "102M plays",
+                "trackNumber": 1,
+                "duration": "1:33",
+                "duration_seconds": 93,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpKaZKhxCk-45LGp5GcHAO3sUhH4hhTiqbCGVZCjyt78-O_2o-VE-h5p8aewUh3WvnIYKdNW2FTjV1TqPsLenzAnWkV-ZA"
+                }
+            },
+            {
+                "videoId": "PlaiDnJyabE",
+                "title": "bye",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "43M plays",
+                "trackNumber": 2,
+                "duration": "2:45",
+                "duration_seconds": 165,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJ-Y5_DedGQlz2viFI05MxxqnbcyJfSc7YTY-1WY7RpBEosuxee45nA4EpQyalvp5EFk4xYC77MhTJhCsboPHwg8Q4MXg"
+                }
+            },
+            {
+                "videoId": "_ZSuyl3BZHY",
+                "title": "don't wanna break up again",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": true,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "39M plays",
+                "trackNumber": 3,
+                "duration": "2:55",
+                "duration_seconds": 175,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpLAiMciTwQ0EjAwrlQ81dxhgksXV1Woh1Mgh4zTKaxgnSTPOVUhRA9CIgU7itDn4uPFP2e54oJwpntGMPtiq-iNQHh_vQ"
+                }
+            },
+            {
+                "videoId": "f68Og1FPFfw",
+                "title": "Saturn Returns Interlude",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "8.8M plays",
+                "trackNumber": 4,
+                "duration": "0:43",
+                "duration_seconds": 43,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJuso5wj4fQyusXhIzEZ3Sz7d0arO7sWEOkumYm-D7FmCOoQ_3fimTvVHo1EgMCtmBmIMPTO0Jr0v4aj-fK56Tw7VrAWQ"
+                }
+            },
+            {
+                "videoId": "dS_HLHozs1E",
+                "title": "eternal sunshine",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "74M plays",
+                "trackNumber": 5,
+                "duration": "3:31",
+                "duration_seconds": 211,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpK-rYBBafW6f8cvLZSiWz-Adj9Gw84eNIvjl0NLD5LkqoTFEXRdHt2W-UX79QF_Q8DPKZyClpfub_Hie6_wHtqSfuGy4A"
+                }
+            },
+            {
+                "videoId": "hKwizc5nsWY",
+                "title": "supernatural",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "174M plays",
+                "trackNumber": 6,
+                "duration": "2:44",
+                "duration_seconds": 164,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpK1D39l8nKJERcxIHe_gdNNXlYRSoGPzK5z1qdZCs9ab3BjBCpfOHloEa_69bcnUFjFH4NxlAwuGYg3nI8rXUel8vUcdw"
+                }
+            },
+            {
+                "videoId": "sZTugkGSxSg",
+                "title": "true story",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_ATV",
+                "views": "11M plays",
+                "trackNumber": 7,
+                "duration": "2:44",
+                "duration_seconds": 164,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpLUsNhQzM0PaSG7zq6t3NaonSwuj_jjRYH1dEcp5tUpDTEZjxUJkSoQlGSQhsw2wRP-eKs3L8RDny8OHC3Cbpy1wRrO7w"
+                }
+            },
+            {
+                "videoId": "KwRxeZ9Ro24",
+                "title": "the boy is mine",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": true,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "208M plays",
+                "trackNumber": 8,
+                "duration": "2:54",
+                "duration_seconds": 174,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJu31MhYiEcQymyDK6MW_VYaQVCjJL58sQYeQokjfz8Qn9bAcYI6XkwcSEvZU551xPm7g1ssMQrVDhHG5k19nwAwcTXlA"
+                }
+            },
+            {
+                "videoId": "eB6txyhHFG4",
+                "title": "yes, and?",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": true,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "223M plays",
+                "trackNumber": 9,
+                "duration": "3:35",
+                "duration_seconds": 215,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpKQHHZqXwZlKKManSIuzVrBquKOvS6-w3I6ZR5mffZ163Op4rhvxIQCCKVIbU_v2Hqz7Mpm5qudSeI7Uc1Sa5Eo_U_V6w"
+                }
+            },
+            {
+                "videoId": "KNtJGQkC-WI",
+                "title": "we can't be friends (wait for your love)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "732M plays",
+                "trackNumber": 10,
+                "duration": "3:49",
+                "duration_seconds": 229,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJoQytaMFSjng29ABJEAUTbK7QXKoBCaN-bH1haWf2WE9rscMFBFeLUAV8XpUkbPOfDjXPgS6AeERZYbYpqYbgfA5o1-g"
+                }
+            },
+            {
+                "videoId": "T5k2-0yRzKc",
+                "title": "i wish i hated you",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "19M plays",
+                "trackNumber": 11,
+                "duration": "2:34",
+                "duration_seconds": 154,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpI3AmF1RRO2kC4woIkIuSSzRx5pjHPWWbwtZjmMcua8AbWrd-rhtx7eEYOhDt9MoyzJgQEXhVOU8-MvyJ3t6NYtehx3jg"
+                }
+            },
+            {
+                "videoId": "VtQorLzzbQw",
+                "title": "imperfect for you",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": true,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "25M plays",
+                "trackNumber": 12,
+                "duration": "3:03",
+                "duration_seconds": 183,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpID_NZQr3EE1CtDLIT3BGkNqS70fI2s6sgTA2-pAElBdHVz1qp6DYgyr67CA53AkGBfzHPlqTxopEQPbppALsOt2eNBDw"
+                }
+            },
+            {
+                "videoId": "6XWMiMlZHfA",
+                "title": "ordinary things (feat. Nonna)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "11M plays",
+                "trackNumber": 13,
+                "duration": "2:49",
+                "duration_seconds": 169,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpL-GfEzvBTm6RP64PgnQ_5nFRCS2X4kxoTmAxik9OMVZ9fqr38oytfjXBcUxQtoqgItXl8sZtGc77rb_568siaEWulpaQ"
+                }
+            },
+            {
+                "videoId": "8n5W2O2DzLY",
+                "title": "supernatural (remix)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    },
+                    {
+                        "name": "Troye Sivan",
+                        "id": "UC11RplprGRVVtT2tgtcYzWg"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_ATV",
+                "views": "7.2M plays",
+                "trackNumber": 14,
+                "duration": "2:44",
+                "duration_seconds": 164,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJUhCm_5qjcTXfOKgmwd4vVmlPxSDx3xzLvsZya3hr-CPZCYJvYVkvxILOTdhfPQ5-1YgUQgS32RGP3Fu47n778Lru4XA"
+                }
+            },
+            {
+                "videoId": "TaanS28Ea80",
+                "title": "imperfect for you (acoustic)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": true,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "3.9M plays",
+                "trackNumber": 15,
+                "duration": "3:04",
+                "duration_seconds": 184,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpLH6xxAel35o7aEArK3FHUuJRBIKmMo-rdxOHToWHRRxVTDCbQZuN2jdqh_RThk61g5M7eJiiEv-n_QHFGr3yIa9VRpFw"
+                }
+            },
+            {
+                "videoId": "zJWZDa2uxtA",
+                "title": "true story (a cappella)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "19M plays",
+                "trackNumber": 16,
+                "duration": "2:43",
+                "duration_seconds": 163,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpK8NOQ6YJg5nvW4JKZGjTXPLSO6cQ-BwP5bVlEykob2Fkw__RP5vFpn5qHbf26g7h4JtOi6vmirQIaJ6AK-SRetcNcN5Q"
+                }
+            },
+            {
+                "videoId": "LogwgbE1eAk",
+                "title": "yes, and? (Remix)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    },
+                    {
+                        "name": "Mariah Carey",
+                        "id": "UCKRnq8aBOCanYlffje7HyvA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": true,
+                "videoType": "MUSIC_VIDEO_TYPE_ATV",
+                "views": "5.4M plays",
+                "trackNumber": 17,
+                "duration": "3:35",
+                "duration_seconds": 215,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpINwkUBf9hcNGYZ6WCACQ0Y4CcWPoPwdxFPVkXJA1iy2EVDzDHzArn4MHkyMLf_3qDl76QDjrvMopQoa3K3jcX__mctJg"
+                }
+            }
+        ],
+        "other_versions": [
+            {
+                "title": "eternal sunshine (slightly deluxe)",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UC0076UMUgEng8HORUw_MYHA",
+                        "name": "Ariana Grande"
+                    }
+                ],
+                "browseId": "MPREb_LutXfavORtV",
+                "audioPlaylistId": "OLAK5uy_komMWmxLf1aYY86_SbULxmTsXgXfJa-ng",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "eternal sunshine",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UC0076UMUgEng8HORUw_MYHA",
+                        "name": "Ariana Grande"
+                    }
+                ],
+                "browseId": "MPREb_P7RBVY9fHZj",
+                "audioPlaylistId": "OLAK5uy_neVwsS2-LRD440B4ZnEDQE_aC22Dimb3Y",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "eternal sunshine",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UC0076UMUgEng8HORUw_MYHA",
+                        "name": "Ariana Grande"
+                    }
+                ],
+                "browseId": "MPREb_TNuzh2OUPXu",
+                "audioPlaylistId": "OLAK5uy_kp_mKGJL3yzaSm29fmE7Y4FOB112zgsj0",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            }
+        ],
+        "related_recommendations": [
+            {
+                "title": "CHANEL",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCnZBreGKMYsBpE5Vqxevewg",
+                        "name": "Tyla"
+                    }
+                ],
+                "browseId": "MPREb_oPLoswn4bxE",
+                "audioPlaylistId": "OLAK5uy_m7GzYggvTuGfppaRjf6T3yhTazsqb5g7w",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/wSNmuL0pMJGF5vIMECyKDfH1dOBm9YO1zlQmKIvC8K3PPBeC5mzcSERddqCNcBu-XGhuHIrmasNeNKT3=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/wSNmuL0pMJGF5vIMECyKDfH1dOBm9YO1zlQmKIvC8K3PPBeC5mzcSERddqCNcBu-XGhuHIrmasNeNKT3=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "TYLA",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UCnZBreGKMYsBpE5Vqxevewg",
+                        "name": "Tyla"
+                    }
+                ],
+                "browseId": "MPREb_09j1PbYAanD",
+                "audioPlaylistId": "OLAK5uy_nW4mjzPlB6YeidemuOQMOVPMvyRDFEs4Q",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/3h6Jfh6CZpO3PiovGANDnPSjETv8ktCNvOJqdNXupxB1ersWJBH-PWXBIRskDwNvulukSosq4c8beNM=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/3h6Jfh6CZpO3PiovGANDnPSjETv8ktCNvOJqdNXupxB1ersWJBH-PWXBIRskDwNvulukSosq4c8beNM=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "My Patience",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCjXoaO_hrw_lZj7EFksEotA",
+                        "name": "Emerson Azarian"
+                    }
+                ],
+                "browseId": "MPREb_a9qKAyzmxMk",
+                "audioPlaylistId": "OLAK5uy_mbyNHRL3ziDqsNAl4eO0kGZQ0w-_h5rwc",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/aisLFWcAQBzSmU7XtvpvU0UY07pXAUKwjEREDS466gi3rahpqgLoCdEa9TQDcjgu_H9dVYNjThM0olk=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/aisLFWcAQBzSmU7XtvpvU0UY07pXAUKwjEREDS466gi3rahpqgLoCdEa9TQDcjgu_H9dVYNjThM0olk=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "Moonlit Floor (Kiss Me)",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCXtPv6CbKfuXPNj3MyKFOig",
+                        "name": "LISA"
+                    }
+                ],
+                "browseId": "MPREb_8yUyUQt4L2W",
+                "audioPlaylistId": "OLAK5uy_n5f-axjmnXix3pjgn3WdLlSzEqSi7pp6Y",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/QAUNVqJ8S8GFYGkG-YIKVIcftNp4JBnK_LQMC3SuRxX0HjOW1GB58UJpNXf22UfhcC1PXcBo1S5l-H32CQ=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/QAUNVqJ8S8GFYGkG-YIKVIcftNp4JBnK_LQMC3SuRxX0HjOW1GB58UJpNXf22UfhcC1PXcBo1S5l-H32CQ=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "Love You More",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCxFn-c4mpFFR15V-OyHk-kA",
+                        "name": "Felix Cartal"
+                    },
+                    {
+                        "id": "UCZcc-WkffIMBVGUr6j9e6aQ",
+                        "name": "Daya"
+                    }
+                ],
+                "browseId": "MPREb_tAtvFJUC9wl",
+                "audioPlaylistId": "OLAK5uy_mYPbMcHw4zxq4GU3B-103v9uSZ7fBgDwM",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/45bOarcqPvdkeQ2Tl92CfL3uUgjF7PeB78fvm-SUqKEc-7rKZjq_hz03nTcSiv-mtzBq5xIq7_VjyAPJKQ=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/45bOarcqPvdkeQ2Tl92CfL3uUgjF7PeB78fvm-SUqKEc-7rKZjq_hz03nTcSiv-mtzBq5xIq7_VjyAPJKQ=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "ORQU\u00cdDEAS",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UCpkgnBLJpbkVLAob1CaPZsw",
+                        "name": "Kali Uchis"
+                    }
+                ],
+                "browseId": "MPREb_OHdzs4U4GKP",
+                "audioPlaylistId": "OLAK5uy_kSRcj7P2PtkkiYmSTbgVqzhziPQ9zapGs",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/nDdW1Em2dfj2H3zZ1nLh_vnSSKbvp7kIvriKf9DJRrm7WobfF9MjWEWvYIXIh82qxUwO8LXWnZTmGmve=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/nDdW1Em2dfj2H3zZ1nLh_vnSSKbvp7kIvriKf9DJRrm7WobfF9MjWEWvYIXIh82qxUwO8LXWnZTmGmve=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "Taste (From \u201cThe Idea of You\u201d)",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCk5Ptn9XMzMWAqv7MSset0w",
+                        "name": "August Moon"
+                    }
+                ],
+                "browseId": "MPREb_McHRurtZmjg",
+                "audioPlaylistId": "OLAK5uy_ktUmFzHR5Ri933BKPp-RdfZkNoYZOZGU4",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/kGfNKj-fDSsUgmoGMlGnisumAsQOfAYi12KqCwcdknVuB-7vHZS8hBSTAkVa8Hi7kcJmOE8kVuEeaQs=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/kGfNKj-fDSsUgmoGMlGnisumAsQOfAYi12KqCwcdknVuB-7vHZS8hBSTAkVa8Hi7kcJmOE8kVuEeaQs=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "Mumbai",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UC_uDhX2b-EGw0M9KqikifQA",
+                        "name": "Rhea Raj"
+                    }
+                ],
+                "browseId": "MPREb_hG6n1J7ayOw",
+                "audioPlaylistId": "OLAK5uy_mj5C3BkcAu-BnAhSSo4QpbWYAY_XbHdBI",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/I3BHsM8NMBaAlhKEYWLKGyWSwEO9fMmdZsd0Kt-K7S96PJKeYHhOAEUuIstS49Osaw1Tsf-OSnhjZWLddA=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/I3BHsM8NMBaAlhKEYWLKGyWSwEO9fMmdZsd0Kt-K7S96PJKeYHhOAEUuIstS49Osaw1Tsf-OSnhjZWLddA=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "SOS Deluxe: LANA",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UCeKDV9JgivrXehVluw5bKFA",
+                        "name": "SZA"
+                    }
+                ],
+                "browseId": "MPREb_B1iAQAffw1o",
+                "audioPlaylistId": "OLAK5uy_nLK1VCuvYYj93exmzQm-HmmXxseh3Wm7I",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/-lIOg_t5XxEdEdhE4faoeUqECtCbeqLDEtz7Vdt8hSKWQyJRjjkojtE4mTVRrwv0je0sTHOIoBItrrGX=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/-lIOg_t5XxEdEdhE4faoeUqECtCbeqLDEtz7Vdt8hSKWQyJRjjkojtE4mTVRrwv0je0sTHOIoBItrrGX=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "Violent",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCjXoaO_hrw_lZj7EFksEotA",
+                        "name": "Emerson Azarian"
+                    }
+                ],
+                "browseId": "MPREb_YVvqdbngeje",
+                "audioPlaylistId": "OLAK5uy_mYD9AQy4rX9Uc7z5kLhJDpepZwrHZxgC4",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/g6pnmLw-whtvmueQ6-dXes4qOWQ5m-oYOTos0nDJwNhsBfLA2kvB68kmpB-l8xNIfOScONqfgCnEm8mX=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/g6pnmLw-whtvmueQ6-dXes4qOWQ5m-oYOTos0nDJwNhsBfLA2kvB68kmpB-l8xNIfOScONqfgCnEm8mX=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            }
+        ],
+        "duration_seconds": 2865
+    },
+    {
+        "title": "eternal sunshine (slightly deluxe)",
+        "type": "Album",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w226-h226-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w544-h544-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ],
+        "isExplicit": false,
+        "description": null,
+        "year": "2024",
+        "artists": [
+            {
+                "name": "Ariana Grande",
+                "id": "UC0076UMUgEng8HORUw_MYHA"
+            }
+        ],
+        "trackCount": 17,
+        "duration": "47 minutes",
+        "audioPlaylistId": "OLAK5uy_komMWmxLf1aYY86_SbULxmTsXgXfJa-ng",
+        "likeStatus": "INDIFFERENT",
+        "tracks": [
+            {
+                "videoId": "p7jATa6Soag",
+                "title": "intro (end of the world)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "102M plays",
+                "trackNumber": 1,
+                "duration": "1:33",
+                "duration_seconds": 93,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJiwIHMqFPrt_A-ds3mM0AR7dSpRFBIh7aNYVHBDh8mQZuuwjID-jFrI8moZ4JfImSnrduMgzoWU-fPKG7EoBxk4axGUw"
+                }
+            },
+            {
+                "videoId": "PlaiDnJyabE",
+                "title": "bye",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "43M plays",
+                "trackNumber": 2,
+                "duration": "2:45",
+                "duration_seconds": 165,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJVk4751pwumillwZI0ln2QVgyNlmImK6jzTZygkdwMxDL7533np2nSdNVcocuZta2fKCag9UGyyjnWomGBvNGEx6PrJQ"
+                }
+            },
+            {
+                "videoId": "_ZSuyl3BZHY",
+                "title": "don't wanna break up again",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "39M plays",
+                "trackNumber": 3,
+                "duration": "2:55",
+                "duration_seconds": 175,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpLx5DplP746l3wfnL4li9eEuZD8Ogj00NJwImwL3WqWYdhId0yWRvSNQp0f2QCgDPsZYN3v58QieBqRFAEqqccDWcjq0g"
+                }
+            },
+            {
+                "videoId": "f68Og1FPFfw",
+                "title": "Saturn Returns Interlude",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "8.8M plays",
+                "trackNumber": 4,
+                "duration": "0:43",
+                "duration_seconds": 43,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpLa9BpSJeicuEqpL9dEk1aev2PClphbs0Q0RpwYC7uio1n4iQldq6_4yuN9tQQivcaeuBNBIk41ZdMxCWAttOCX0_tGNg"
+                }
+            },
+            {
+                "videoId": "dS_HLHozs1E",
+                "title": "eternal sunshine",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "74M plays",
+                "trackNumber": 5,
+                "duration": "3:31",
+                "duration_seconds": 211,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpIXdvEkmnw_dvK25qXIRtFvAjZidjOsOj-SEX4nO1aRfcBjD3pQTEpLpWGVvI92OvmWs4kUclQ5xhBn5tHjrHXrOznwww"
+                }
+            },
+            {
+                "videoId": "hKwizc5nsWY",
+                "title": "supernatural",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "174M plays",
+                "trackNumber": 6,
+                "duration": "2:44",
+                "duration_seconds": 164,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpLx5NhjiVue0D92ZuRDh9tEcU54mXuiJkaqLvGLOgQoavgzD25kgyVjUOfKTaYk9EkPWrqb_k42E_t6PU25pKRPiZWPFw"
+                }
+            },
+            {
+                "videoId": "nD1TGxFMqQw",
+                "title": "true story",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_ATV",
+                "views": "11M plays",
+                "trackNumber": 7,
+                "duration": "2:44",
+                "duration_seconds": 164,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpIV0BNqfkCbvX6_bObiSj6qo9T3XFqGtSBMjpTRD1qJTgUE867iCWk-2XDVd5DLH35wGzk6eQ0rRfMzfmKZRSD9NRj8qg"
+                }
+            },
+            {
+                "videoId": "KwRxeZ9Ro24",
+                "title": "the boy is mine",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "208M plays",
+                "trackNumber": 8,
+                "duration": "2:54",
+                "duration_seconds": 174,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpLTjra61JV0bN7BMYzwD3YMhmMHPKn7a2dubVXsLHNyJPi1di-D_wGIROWBgKAPJKTSJ3Ht__YBBULCRHYeIi6w8X-sqA"
+                }
+            },
+            {
+                "videoId": "eB6txyhHFG4",
+                "title": "yes, and?",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "223M plays",
+                "trackNumber": 9,
+                "duration": "3:35",
+                "duration_seconds": 215,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpL7HewsCLz2CSAYkuOKhI_BaGQUeIyl_gD604gEnzaSSxY_5Aw1JrlN6KvUFrQ07Go48IqUfugZ48oWR-RezjPFF_TzHg"
+                }
+            },
+            {
+                "videoId": "KNtJGQkC-WI",
+                "title": "we can't be friends (wait for your love)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "732M plays",
+                "trackNumber": 10,
+                "duration": "3:49",
+                "duration_seconds": 229,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpLSjEvec7ASV6hzgMidlpRsUFLP8Y4esYKD91q0-fkvoYCQeZ9hHyaHvzf1WElSSov5cJoCIq-3qPanIYq8h6lKG-jq2w"
+                }
+            },
+            {
+                "videoId": "T5k2-0yRzKc",
+                "title": "i wish i hated you",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "19M plays",
+                "trackNumber": 11,
+                "duration": "2:34",
+                "duration_seconds": 154,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpKepPp9d44GIVh0JF1OZJ5P20g4JigEqEsdHOGwTuuGA4s8HWhvomiTX-IicZZ__vWCgEsxIMauk5NkaVCZldNOXL7o4A"
+                }
+            },
+            {
+                "videoId": "VtQorLzzbQw",
+                "title": "imperfect for you",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "25M plays",
+                "trackNumber": 12,
+                "duration": "3:03",
+                "duration_seconds": 183,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJc6b0XdGd0AnrMonIEjQLHFL4Qzwh_qYGmHudV808YpOcddoJQubRmBLxWjK4sIgzrXsGY-Kfux2d3dVQSHDTHApuaXw"
+                }
+            },
+            {
+                "videoId": "6XWMiMlZHfA",
+                "title": "ordinary things (feat. Nonna)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "11M plays",
+                "trackNumber": 13,
+                "duration": "2:49",
+                "duration_seconds": 169,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJ4Q5HGfXfotkcDPOFgPIabaNZnTP8Q8lZ1OOSyl3KRexw2wLMGis538Gyskp8WNXy7LPTMVHNXSJOydUWVlK0oOCXHWw"
+                }
+            },
+            {
+                "videoId": "4--p71dF6G8",
+                "title": "supernatural (remix)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    },
+                    {
+                        "name": "Troye Sivan",
+                        "id": "UC11RplprGRVVtT2tgtcYzWg"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_ATV",
+                "views": "7.2M plays",
+                "trackNumber": 14,
+                "duration": "2:44",
+                "duration_seconds": 164,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpIQTJAXcBQ1tnmsj-b2nJcqqGl0CwIQCxioOzUdMl2M5VN_IUM6uGhgH9lzSRqCvevo6xPQZ3jHwMy7i6WE9EuVZb4-MA"
+                }
+            },
+            {
+                "videoId": "TaanS28Ea80",
+                "title": "imperfect for you (acoustic)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "3.9M plays",
+                "trackNumber": 15,
+                "duration": "3:04",
+                "duration_seconds": 184,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJDlZfh8cBhjSMq2EmThPfJqQ7vyVtu_UcvYV2Zltmavo0Fi6mllfBkebChwRum1runuAROd9GYEt2ft9vMpoSEOElzGQ"
+                }
+            },
+            {
+                "videoId": "zJWZDa2uxtA",
+                "title": "true story (a cappella)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "19M plays",
+                "trackNumber": 16,
+                "duration": "2:43",
+                "duration_seconds": 163,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpLAsU9O2qLrb5cVXZwI_WT1Aq5uVLWVRupvsxK7YZncJlua4_Sr4nFkIywcWVqL5W1H61E3d2uH5KeLdWRjLqTJlZRSig"
+                }
+            },
+            {
+                "videoId": "ABn9FDRLh3k",
+                "title": "yes, and? (Remix)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    },
+                    {
+                        "name": "Mariah Carey",
+                        "id": "UCKRnq8aBOCanYlffje7HyvA"
+                    }
+                ],
+                "album": "eternal sunshine (slightly deluxe)",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_ATV",
+                "views": "5.4M plays",
+                "trackNumber": 17,
+                "duration": "3:35",
+                "duration_seconds": 215,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpLfREcaPX-4VuJsoxjoDikS42h_mAB_Zdpl0QsqXE8vnT9utiRCycQmEn-dWahYHti5muY_hBjDci-YHAXstXehgA8NEQ"
+                }
+            }
+        ],
+        "other_versions": [
+            {
+                "title": "eternal sunshine (slightly deluxe)",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UC0076UMUgEng8HORUw_MYHA",
+                        "name": "Ariana Grande"
+                    }
+                ],
+                "browseId": "MPREb_PAJOpgWiq5r",
+                "audioPlaylistId": "OLAK5uy_kQF1D-3BrTCPp38u3eZx5iPgbY2x8wIAg",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "eternal sunshine",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UC0076UMUgEng8HORUw_MYHA",
+                        "name": "Ariana Grande"
+                    }
+                ],
+                "browseId": "MPREb_P7RBVY9fHZj",
+                "audioPlaylistId": "OLAK5uy_neVwsS2-LRD440B4ZnEDQE_aC22Dimb3Y",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "eternal sunshine",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UC0076UMUgEng8HORUw_MYHA",
+                        "name": "Ariana Grande"
+                    }
+                ],
+                "browseId": "MPREb_TNuzh2OUPXu",
+                "audioPlaylistId": "OLAK5uy_kp_mKGJL3yzaSm29fmE7Y4FOB112zgsj0",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            }
+        ],
+        "related_recommendations": [
+            {
+                "title": "CHANEL",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCnZBreGKMYsBpE5Vqxevewg",
+                        "name": "Tyla"
+                    }
+                ],
+                "browseId": "MPREb_oPLoswn4bxE",
+                "audioPlaylistId": "OLAK5uy_m7GzYggvTuGfppaRjf6T3yhTazsqb5g7w",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/wSNmuL0pMJGF5vIMECyKDfH1dOBm9YO1zlQmKIvC8K3PPBeC5mzcSERddqCNcBu-XGhuHIrmasNeNKT3=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/wSNmuL0pMJGF5vIMECyKDfH1dOBm9YO1zlQmKIvC8K3PPBeC5mzcSERddqCNcBu-XGhuHIrmasNeNKT3=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "Violent",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCjXoaO_hrw_lZj7EFksEotA",
+                        "name": "Emerson Azarian"
+                    }
+                ],
+                "browseId": "MPREb_YVvqdbngeje",
+                "audioPlaylistId": "OLAK5uy_mYD9AQy4rX9Uc7z5kLhJDpepZwrHZxgC4",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/g6pnmLw-whtvmueQ6-dXes4qOWQ5m-oYOTos0nDJwNhsBfLA2kvB68kmpB-l8xNIfOScONqfgCnEm8mX=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/g6pnmLw-whtvmueQ6-dXes4qOWQ5m-oYOTos0nDJwNhsBfLA2kvB68kmpB-l8xNIfOScONqfgCnEm8mX=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "TORI.",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UC7I7o6mLA1LKwvLkToTJpBw",
+                        "name": "Tori Kelly"
+                    }
+                ],
+                "browseId": "MPREb_SG3Affc32Yj",
+                "audioPlaylistId": "OLAK5uy_kcs44cBoxlpaqmuWOmuX-5TAi8KXIqX5U",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/h8eu4FuWIeUd3rETiOfoCUcjp3wN57IDEv79YIUtZIpJsomcdmj2uK2QAAUPAousOts4Vmkn6LLunZUa=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/h8eu4FuWIeUd3rETiOfoCUcjp3wN57IDEv79YIUtZIpJsomcdmj2uK2QAAUPAousOts4Vmkn6LLunZUa=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "My Patience",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCjXoaO_hrw_lZj7EFksEotA",
+                        "name": "Emerson Azarian"
+                    }
+                ],
+                "browseId": "MPREb_a9qKAyzmxMk",
+                "audioPlaylistId": "OLAK5uy_mbyNHRL3ziDqsNAl4eO0kGZQ0w-_h5rwc",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/aisLFWcAQBzSmU7XtvpvU0UY07pXAUKwjEREDS466gi3rahpqgLoCdEa9TQDcjgu_H9dVYNjThM0olk=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/aisLFWcAQBzSmU7XtvpvU0UY07pXAUKwjEREDS466gi3rahpqgLoCdEa9TQDcjgu_H9dVYNjThM0olk=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "Moonlit Floor (Kiss Me)",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCXtPv6CbKfuXPNj3MyKFOig",
+                        "name": "LISA"
+                    }
+                ],
+                "browseId": "MPREb_8yUyUQt4L2W",
+                "audioPlaylistId": "OLAK5uy_n5f-axjmnXix3pjgn3WdLlSzEqSi7pp6Y",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/QAUNVqJ8S8GFYGkG-YIKVIcftNp4JBnK_LQMC3SuRxX0HjOW1GB58UJpNXf22UfhcC1PXcBo1S5l-H32CQ=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/QAUNVqJ8S8GFYGkG-YIKVIcftNp4JBnK_LQMC3SuRxX0HjOW1GB58UJpNXf22UfhcC1PXcBo1S5l-H32CQ=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "ORQU\u00cdDEAS",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UCpkgnBLJpbkVLAob1CaPZsw",
+                        "name": "Kali Uchis"
+                    }
+                ],
+                "browseId": "MPREb_OHdzs4U4GKP",
+                "audioPlaylistId": "OLAK5uy_kSRcj7P2PtkkiYmSTbgVqzhziPQ9zapGs",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/nDdW1Em2dfj2H3zZ1nLh_vnSSKbvp7kIvriKf9DJRrm7WobfF9MjWEWvYIXIh82qxUwO8LXWnZTmGmve=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/nDdW1Em2dfj2H3zZ1nLh_vnSSKbvp7kIvriKf9DJRrm7WobfF9MjWEWvYIXIh82qxUwO8LXWnZTmGmve=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "Got Me Started",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UC11RplprGRVVtT2tgtcYzWg",
+                        "name": "Troye Sivan"
+                    }
+                ],
+                "browseId": "MPREb_czW4WtYx2Ru",
+                "audioPlaylistId": "OLAK5uy_kd-0F4ETIyTnpJ5AXPdfa94C4fssC1cmc",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/Xd0W4bf49Z7x1Dx3NjRMRBaXyW7i6iXc2bGUcxzs-24iKUiV4yp4BiKRo9C8HWPVLpcQBqNPqvnZjjIy=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/Xd0W4bf49Z7x1Dx3NjRMRBaXyW7i6iXc2bGUcxzs-24iKUiV4yp4BiKRo9C8HWPVLpcQBqNPqvnZjjIy=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "My 21st Century Blues",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UCvyjk7zKlaFyNIPZ-Pyvkng",
+                        "name": "RAYE"
+                    }
+                ],
+                "browseId": "MPREb_G5WlCAsgDsE",
+                "audioPlaylistId": "OLAK5uy_luIyJkhcapEXQmUjKEtlLoSb-QZzEr3To",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/81cisN8BumxHl1O934cG0GPwjNbiCaRBL1IYaqB_At8JCFAYWXb_d5V_oMnjbP4nixW-9Iz2w0QErZA=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/81cisN8BumxHl1O934cG0GPwjNbiCaRBL1IYaqB_At8JCFAYWXb_d5V_oMnjbP4nixW-9Iz2w0QErZA=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "Mumbai",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UC_uDhX2b-EGw0M9KqikifQA",
+                        "name": "Rhea Raj"
+                    }
+                ],
+                "browseId": "MPREb_hG6n1J7ayOw",
+                "audioPlaylistId": "OLAK5uy_mj5C3BkcAu-BnAhSSo4QpbWYAY_XbHdBI",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/I3BHsM8NMBaAlhKEYWLKGyWSwEO9fMmdZsd0Kt-K7S96PJKeYHhOAEUuIstS49Osaw1Tsf-OSnhjZWLddA=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/I3BHsM8NMBaAlhKEYWLKGyWSwEO9fMmdZsd0Kt-K7S96PJKeYHhOAEUuIstS49Osaw1Tsf-OSnhjZWLddA=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCERrDZ8oN0U_n9MphMKERcg",
+                        "name": "Billie Eilish"
+                    }
+                ],
+                "browseId": "MPREb_yW1fFxbcJne",
+                "audioPlaylistId": "OLAK5uy_mrrWniMcUsA3XP1HFvdaEePR5eQIgl2HI",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/47vSOU42fwOTqutJd7wIkBSSyJdXEUoqVK8aH1m1GJ3B91mWtQ430x-wKt8pu-5KP5o1NFCxa-jlQWgv=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/47vSOU42fwOTqutJd7wIkBSSyJdXEUoqVK8aH1m1GJ3B91mWtQ430x-wKt8pu-5KP5o1NFCxa-jlQWgv=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            }
+        ],
+        "duration_seconds": 2865
+    },
+    {
+        "title": "eternal sunshine",
+        "type": "Album",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w226-h226-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w544-h544-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ],
+        "isExplicit": true,
+        "description": "Eternal Sunshine is the seventh studio album by American singer-songwriter Ariana Grande. It was released on March 8, 2024, by Republic Records. Written and produced by Grande, Max Martin, Ilya Salmanzadeh, and Oscar G\u00f6rres amongst others, Eternal Sunshine is a pop and R&B record with dance, synth-pop and house influences, characterized by mid-tempo synthesizers, subtle guitar and string elements.\nGrande derived the album's title from the 2004 American film Eternal Sunshine of the Spotless Mind. She conceived the album as a record of both vulnerability and entertainment, inspired by her personal life experiences. Upon release, the album received acclaim from critics for its restrained vocals and music and the emotional vulnerability of the subject matter, while some critiqued the songwriting as unrefined. Eternal Sunshine and its singles were nominated for three Grammy Awards, including for Best Pop Vocal Album.\nIn the United States, the album opened at number one on the Billboard 200, marking her sixth number-one on the chart, while charting all of its tracks on the Billboard Hot 100. Three singles were released from the album; the first two, \"Yes, And?\"\n\nFrom Wikipedia (",
+        "year": "2024",
+        "artists": [
+            {
+                "name": "Ariana Grande",
+                "id": "UC0076UMUgEng8HORUw_MYHA"
+            }
+        ],
+        "trackCount": 13,
+        "duration": "35 minutes",
+        "audioPlaylistId": "OLAK5uy_neVwsS2-LRD440B4ZnEDQE_aC22Dimb3Y",
+        "likeStatus": "INDIFFERENT",
+        "tracks": [
+            {
+                "videoId": "p7jATa6Soag",
+                "title": "intro (end of the world)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": true,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "102M plays",
+                "trackNumber": 1,
+                "duration": "1:33",
+                "duration_seconds": 93,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpK-ezhbRYfWM7eFL5klUpT6mGpzRxFkK-jfj-m7hCEJFDf-u4VmyIoCRcgg6QWB47h_OFan7r5czWlODo3rBrC2Fg-xhA"
+                }
+            },
+            {
+                "videoId": "PlaiDnJyabE",
+                "title": "bye",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "43M plays",
+                "trackNumber": 2,
+                "duration": "2:45",
+                "duration_seconds": 165,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpIPk5fAs-16iaVPKpjvCV6-kk8hv7Xs9vShmswJTKoO63m-c2cCmWSpIjfQvj3YvjcsqnG0PNsttniMp_3AT5lGYSqxtw"
+                }
+            },
+            {
+                "videoId": "_ZSuyl3BZHY",
+                "title": "don't wanna break up again",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": true,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "39M plays",
+                "trackNumber": 3,
+                "duration": "2:55",
+                "duration_seconds": 175,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpI9M90FLDXtWRgluzhFzOfvWAXvPmnU59dZABf18SIQrq9xtpiPkjA1CposQelrmT1DUkfwbXNvzAzM-Y1fkXZO_dXuvA"
+                }
+            },
+            {
+                "videoId": "f68Og1FPFfw",
+                "title": "Saturn Returns Interlude",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "8.9M plays",
+                "trackNumber": 4,
+                "duration": "0:43",
+                "duration_seconds": 43,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJRTlgojzf6urKvGFDShgOuZlmCjwXtLN0BHuaPROQtlLYRZQHMna5hi_VGTY0sJiL3qRb2FAQawiWi7QAUiqi8ED8P6g"
+                }
+            },
+            {
+                "videoId": "dS_HLHozs1E",
+                "title": "eternal sunshine",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "74M plays",
+                "trackNumber": 5,
+                "duration": "3:31",
+                "duration_seconds": 211,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpL-ZT5N9g-wk_chGXfgywLd78qwAZx6iw51MXKKBzE8_yW6b4gUdWK-eQ3yjEK1QZ3d-QUvzwV6OzGjjlZmACTr4MiSXQ"
+                }
+            },
+            {
+                "videoId": "hKwizc5nsWY",
+                "title": "supernatural",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "174M plays",
+                "trackNumber": 6,
+                "duration": "2:44",
+                "duration_seconds": 164,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpLDVypO0W74Cke7fZmFPxs1ZROBbru_8EUbmyozOOTCIMRH46XwrDDN1fsBl-QGJgTD7L3mbSVk18qd91cipaKX9FCcWg"
+                }
+            },
+            {
+                "videoId": "4omqUTZu5rQ",
+                "title": "true story",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_ATV",
+                "views": "11M plays",
+                "trackNumber": 7,
+                "duration": "2:44",
+                "duration_seconds": 164,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpKF7W6egNUpWg_1xd7r7lKnISHvftSvLcHLuNbJLznrKGPgmw3O8ZbzbL-E76-kqavwGWwBVr1zVk124RV-Jmr1W0Ozog"
+                }
+            },
+            {
+                "videoId": "KwRxeZ9Ro24",
+                "title": "the boy is mine",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": true,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "208M plays",
+                "trackNumber": 8,
+                "duration": "2:54",
+                "duration_seconds": 174,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpLVDmo8RKRl_nba7qP9YYg2z_B8ODLXKif9MXeVosQ6GYSXTzhP3ypSIEdF_wTXJjBCS9QiLpQYYthjycPx8xpV8CbkIw"
+                }
+            },
+            {
+                "videoId": "eB6txyhHFG4",
+                "title": "yes, and?",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": true,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "223M plays",
+                "trackNumber": 9,
+                "duration": "3:35",
+                "duration_seconds": 215,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpLc07yxNybthDzFxBHt3KpmSumuWfFtXIOM9VcQRT_QnghG4p2S1GJ4RVK4z75DZuFIR0sMUxDPJKmpOvPg56QL6VMVrQ"
+                }
+            },
+            {
+                "videoId": "KNtJGQkC-WI",
+                "title": "we can't be friends (wait for your love)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "732M plays",
+                "trackNumber": 10,
+                "duration": "3:49",
+                "duration_seconds": 229,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJiP_fSQBm9XFDTIRM5OT5zXPmq8p_AWEGlClQ2Jct3E4g7e72S06xh-wW3BMgw-g78aLS4O-NxrDywNzoYws_N_vfX9Q"
+                }
+            },
+            {
+                "videoId": "T5k2-0yRzKc",
+                "title": "i wish i hated you",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "19M plays",
+                "trackNumber": 11,
+                "duration": "2:34",
+                "duration_seconds": 154,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpL5UTNHKngeNeaTbinDWxwMo_u26ja2zpOfMrZC5y61wY2jDgMrNUG-fOUO5tKuiQ2cm6kjj3hc8p4PWjRVk2U1VK18Ug"
+                }
+            },
+            {
+                "videoId": "VtQorLzzbQw",
+                "title": "imperfect for you",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": true,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "25M plays",
+                "trackNumber": 12,
+                "duration": "3:03",
+                "duration_seconds": 183,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpLneZxF4Ox720UmMA6y7mCoKpNwuAvAcAZ6yaZRY1dPDe3k3dKQqsH0I5ZZEHTA5iRdBanLihLN3fR4N2B_F77sLNEQ8A"
+                }
+            },
+            {
+                "videoId": "6XWMiMlZHfA",
+                "title": "ordinary things (feat. Nonna)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "11M plays",
+                "trackNumber": 13,
+                "duration": "2:49",
+                "duration_seconds": 169,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpK5sM-pOxgJouLM8shA_1k3LN9BOGzoKSDKDnAmsBC-Wdu0MG2N6v3EfljKOhjZfM4ELIIqDaNkZthAVy20fledkWA3zw"
+                }
+            }
+        ],
+        "other_versions": [
+            {
+                "title": "eternal sunshine (slightly deluxe)",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UC0076UMUgEng8HORUw_MYHA",
+                        "name": "Ariana Grande"
+                    }
+                ],
+                "browseId": "MPREb_PAJOpgWiq5r",
+                "audioPlaylistId": "OLAK5uy_kQF1D-3BrTCPp38u3eZx5iPgbY2x8wIAg",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "eternal sunshine (slightly deluxe)",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UC0076UMUgEng8HORUw_MYHA",
+                        "name": "Ariana Grande"
+                    }
+                ],
+                "browseId": "MPREb_LutXfavORtV",
+                "audioPlaylistId": "OLAK5uy_komMWmxLf1aYY86_SbULxmTsXgXfJa-ng",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "eternal sunshine",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UC0076UMUgEng8HORUw_MYHA",
+                        "name": "Ariana Grande"
+                    }
+                ],
+                "browseId": "MPREb_TNuzh2OUPXu",
+                "audioPlaylistId": "OLAK5uy_kp_mKGJL3yzaSm29fmE7Y4FOB112zgsj0",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            }
+        ],
+        "related_recommendations": [
+            {
+                "title": "CHANEL",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCnZBreGKMYsBpE5Vqxevewg",
+                        "name": "Tyla"
+                    }
+                ],
+                "browseId": "MPREb_oPLoswn4bxE",
+                "audioPlaylistId": "OLAK5uy_m7GzYggvTuGfppaRjf6T3yhTazsqb5g7w",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/wSNmuL0pMJGF5vIMECyKDfH1dOBm9YO1zlQmKIvC8K3PPBeC5mzcSERddqCNcBu-XGhuHIrmasNeNKT3=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/wSNmuL0pMJGF5vIMECyKDfH1dOBm9YO1zlQmKIvC8K3PPBeC5mzcSERddqCNcBu-XGhuHIrmasNeNKT3=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "TYLA",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UCnZBreGKMYsBpE5Vqxevewg",
+                        "name": "Tyla"
+                    }
+                ],
+                "browseId": "MPREb_09j1PbYAanD",
+                "audioPlaylistId": "OLAK5uy_nW4mjzPlB6YeidemuOQMOVPMvyRDFEs4Q",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/3h6Jfh6CZpO3PiovGANDnPSjETv8ktCNvOJqdNXupxB1ersWJBH-PWXBIRskDwNvulukSosq4c8beNM=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/3h6Jfh6CZpO3PiovGANDnPSjETv8ktCNvOJqdNXupxB1ersWJBH-PWXBIRskDwNvulukSosq4c8beNM=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "SOS Deluxe: LANA",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UCeKDV9JgivrXehVluw5bKFA",
+                        "name": "SZA"
+                    }
+                ],
+                "browseId": "MPREb_B1iAQAffw1o",
+                "audioPlaylistId": "OLAK5uy_nLK1VCuvYYj93exmzQm-HmmXxseh3Wm7I",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/-lIOg_t5XxEdEdhE4faoeUqECtCbeqLDEtz7Vdt8hSKWQyJRjjkojtE4mTVRrwv0je0sTHOIoBItrrGX=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/-lIOg_t5XxEdEdhE4faoeUqECtCbeqLDEtz7Vdt8hSKWQyJRjjkojtE4mTVRrwv0je0sTHOIoBItrrGX=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "Moonlit Floor (Kiss Me)",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCXtPv6CbKfuXPNj3MyKFOig",
+                        "name": "LISA"
+                    }
+                ],
+                "browseId": "MPREb_8yUyUQt4L2W",
+                "audioPlaylistId": "OLAK5uy_n5f-axjmnXix3pjgn3WdLlSzEqSi7pp6Y",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/QAUNVqJ8S8GFYGkG-YIKVIcftNp4JBnK_LQMC3SuRxX0HjOW1GB58UJpNXf22UfhcC1PXcBo1S5l-H32CQ=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/QAUNVqJ8S8GFYGkG-YIKVIcftNp4JBnK_LQMC3SuRxX0HjOW1GB58UJpNXf22UfhcC1PXcBo1S5l-H32CQ=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "My Patience",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCjXoaO_hrw_lZj7EFksEotA",
+                        "name": "Emerson Azarian"
+                    }
+                ],
+                "browseId": "MPREb_a9qKAyzmxMk",
+                "audioPlaylistId": "OLAK5uy_mbyNHRL3ziDqsNAl4eO0kGZQ0w-_h5rwc",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/aisLFWcAQBzSmU7XtvpvU0UY07pXAUKwjEREDS466gi3rahpqgLoCdEa9TQDcjgu_H9dVYNjThM0olk=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/aisLFWcAQBzSmU7XtvpvU0UY07pXAUKwjEREDS466gi3rahpqgLoCdEa9TQDcjgu_H9dVYNjThM0olk=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "Violent",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCjXoaO_hrw_lZj7EFksEotA",
+                        "name": "Emerson Azarian"
+                    }
+                ],
+                "browseId": "MPREb_YVvqdbngeje",
+                "audioPlaylistId": "OLAK5uy_mYD9AQy4rX9Uc7z5kLhJDpepZwrHZxgC4",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/g6pnmLw-whtvmueQ6-dXes4qOWQ5m-oYOTos0nDJwNhsBfLA2kvB68kmpB-l8xNIfOScONqfgCnEm8mX=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/g6pnmLw-whtvmueQ6-dXes4qOWQ5m-oYOTos0nDJwNhsBfLA2kvB68kmpB-l8xNIfOScONqfgCnEm8mX=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "ORQU\u00cdDEAS",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UCpkgnBLJpbkVLAob1CaPZsw",
+                        "name": "Kali Uchis"
+                    }
+                ],
+                "browseId": "MPREb_OHdzs4U4GKP",
+                "audioPlaylistId": "OLAK5uy_kSRcj7P2PtkkiYmSTbgVqzhziPQ9zapGs",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/nDdW1Em2dfj2H3zZ1nLh_vnSSKbvp7kIvriKf9DJRrm7WobfF9MjWEWvYIXIh82qxUwO8LXWnZTmGmve=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/nDdW1Em2dfj2H3zZ1nLh_vnSSKbvp7kIvriKf9DJRrm7WobfF9MjWEWvYIXIh82qxUwO8LXWnZTmGmve=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "Mumbai",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UC_uDhX2b-EGw0M9KqikifQA",
+                        "name": "Rhea Raj"
+                    }
+                ],
+                "browseId": "MPREb_hG6n1J7ayOw",
+                "audioPlaylistId": "OLAK5uy_mj5C3BkcAu-BnAhSSo4QpbWYAY_XbHdBI",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/I3BHsM8NMBaAlhKEYWLKGyWSwEO9fMmdZsd0Kt-K7S96PJKeYHhOAEUuIstS49Osaw1Tsf-OSnhjZWLddA=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/I3BHsM8NMBaAlhKEYWLKGyWSwEO9fMmdZsd0Kt-K7S96PJKeYHhOAEUuIstS49Osaw1Tsf-OSnhjZWLddA=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "Taste (From \u201cThe Idea of You\u201d)",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCk5Ptn9XMzMWAqv7MSset0w",
+                        "name": "August Moon"
+                    }
+                ],
+                "browseId": "MPREb_McHRurtZmjg",
+                "audioPlaylistId": "OLAK5uy_ktUmFzHR5Ri933BKPp-RdfZkNoYZOZGU4",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/kGfNKj-fDSsUgmoGMlGnisumAsQOfAYi12KqCwcdknVuB-7vHZS8hBSTAkVa8Hi7kcJmOE8kVuEeaQs=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/kGfNKj-fDSsUgmoGMlGnisumAsQOfAYi12KqCwcdknVuB-7vHZS8hBSTAkVa8Hi7kcJmOE8kVuEeaQs=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCERrDZ8oN0U_n9MphMKERcg",
+                        "name": "Billie Eilish"
+                    }
+                ],
+                "browseId": "MPREb_yW1fFxbcJne",
+                "audioPlaylistId": "OLAK5uy_mrrWniMcUsA3XP1HFvdaEePR5eQIgl2HI",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/47vSOU42fwOTqutJd7wIkBSSyJdXEUoqVK8aH1m1GJ3B91mWtQ430x-wKt8pu-5KP5o1NFCxa-jlQWgv=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/47vSOU42fwOTqutJd7wIkBSSyJdXEUoqVK8aH1m1GJ3B91mWtQ430x-wKt8pu-5KP5o1NFCxa-jlQWgv=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            }
+        ],
+        "duration_seconds": 2139
+    },
+    {
+        "title": "eternal sunshine",
+        "type": "Album",
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w226-h226-l90-rj",
+                "width": 226,
+                "height": 226
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w544-h544-l90-rj",
+                "width": 544,
+                "height": 544
+            }
+        ],
+        "isExplicit": false,
+        "description": "Eternal Sunshine is the seventh studio album by American singer-songwriter Ariana Grande. It was released on March 8, 2024, by Republic Records. Written and produced by Grande, Max Martin, Ilya Salmanzadeh, and Oscar G\u00f6rres amongst others, Eternal Sunshine is a pop and R&B record with dance, synth-pop and house influences, characterized by mid-tempo synthesizers, subtle guitar and string elements.\nGrande derived the album's title from the 2004 American film Eternal Sunshine of the Spotless Mind. She conceived the album as a record of both vulnerability and entertainment, inspired by her personal life experiences. Upon release, the album received acclaim from critics for its restrained vocals and music and the emotional vulnerability of the subject matter, while some critiqued the songwriting as unrefined. Eternal Sunshine and its singles were nominated for three Grammy Awards, including for Best Pop Vocal Album.\nIn the United States, the album opened at number one on the Billboard 200, marking her sixth number-one on the chart, while charting all of its tracks on the Billboard Hot 100. Three singles were released from the album; the first two, \"Yes, And?\"\n\nFrom Wikipedia (",
+        "year": "2024",
+        "artists": [
+            {
+                "name": "Ariana Grande",
+                "id": "UC0076UMUgEng8HORUw_MYHA"
+            }
+        ],
+        "trackCount": 13,
+        "duration": "35 minutes",
+        "audioPlaylistId": "OLAK5uy_kp_mKGJL3yzaSm29fmE7Y4FOB112zgsj0",
+        "likeStatus": "INDIFFERENT",
+        "tracks": [
+            {
+                "videoId": "p7jATa6Soag",
+                "title": "intro (end of the world)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "102M plays",
+                "trackNumber": 1,
+                "duration": "1:33",
+                "duration_seconds": 93,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpKqN1WNRJqWZFuKFkOEzxLZ9ur40WtBVEj38XhLVX8OzWvrEinrmQqvi0pHF3VFQt7TYUJmxD3xfTnHk-IdxFL_fB2vWg"
+                }
+            },
+            {
+                "videoId": "PlaiDnJyabE",
+                "title": "bye",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "43M plays",
+                "trackNumber": 2,
+                "duration": "2:45",
+                "duration_seconds": 165,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJu44FXfYiCpPBb6PeedINwXiBqUZ7-G3vps4Enn5TsTckIuKHMujITI6bJO-9HGGn6HUQn_zzYCJJbOo3WFwYO381QTg"
+                }
+            },
+            {
+                "videoId": "_ZSuyl3BZHY",
+                "title": "don't wanna break up again",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "39M plays",
+                "trackNumber": 3,
+                "duration": "2:55",
+                "duration_seconds": 175,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpIRNaAhYywXiGhksnaaMTsqa8PYHiilMSoOuYQ5BY_Zs2CK3_02qQKVm8C7KInygfb9w_DvDHXva3dm-6sAgnpH-wKlmg"
+                }
+            },
+            {
+                "videoId": "f68Og1FPFfw",
+                "title": "Saturn Returns Interlude",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "8.9M plays",
+                "trackNumber": 4,
+                "duration": "0:43",
+                "duration_seconds": 43,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpLzxSzCRBZS5ZZ1tC0cMP9FkjPhTmrFKAJDkvl5TnE3VKqLk7W3zb4mx8Oam6wptU0IrwMkSfCvw8WcjHbT_3WxQvG83w"
+                }
+            },
+            {
+                "videoId": "dS_HLHozs1E",
+                "title": "eternal sunshine",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "74M plays",
+                "trackNumber": 5,
+                "duration": "3:31",
+                "duration_seconds": 211,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJgRQWbiNi571eV4wj1TSED3DNSOZxeE2atO2SFojV2kJL8GVf4GW6J92YxaNc7UZfurRu0JUOO3gYQJlyquwPblE1irQ"
+                }
+            },
+            {
+                "videoId": "hKwizc5nsWY",
+                "title": "supernatural",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "174M plays",
+                "trackNumber": 6,
+                "duration": "2:44",
+                "duration_seconds": 164,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJoiIqB0vxwf8XN3XkFTonqDxlH3ogDjKBUFeUjyfLp8C3nF_83403yMBs4m4wTEOWdUahA9TyP5nHlk0392Fo-4FY3WQ"
+                }
+            },
+            {
+                "videoId": "LHtR1IbZFCs",
+                "title": "true story",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_ATV",
+                "views": "11M plays",
+                "trackNumber": 7,
+                "duration": "2:44",
+                "duration_seconds": 164,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpKft_CO8hSRQAMskXDhtZLsgBBgW0qqdvtXEWL5RYvoNSNgT2-Aa6wOuGKvGMwRBsMaA7bXk-zhL4d9DL5gbjoGz57TSw"
+                }
+            },
+            {
+                "videoId": "KwRxeZ9Ro24",
+                "title": "the boy is mine",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "208M plays",
+                "trackNumber": 8,
+                "duration": "2:54",
+                "duration_seconds": 174,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpIUCLYC9XwljCt4drESiMj3h-NlgN8EYkxnKE5Wuy9xf8RH_dlIWvssz4F2S0Rrf1IQ4MLJDC-0Obj2OVh7Wo2-sn5nKg"
+                }
+            },
+            {
+                "videoId": "eB6txyhHFG4",
+                "title": "yes, and?",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "223M plays",
+                "trackNumber": 9,
+                "duration": "3:35",
+                "duration_seconds": 215,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpI0LeVRCmukLHJ-zIbRahhSSjeFhyVM82OPgLVviLsvfnuogJjZuoSn4cRa6lQczjzIrPa48UOK8lqWShMdkvbrBr5HlQ"
+                }
+            },
+            {
+                "videoId": "KNtJGQkC-WI",
+                "title": "we can't be friends (wait for your love)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "732M plays",
+                "trackNumber": 10,
+                "duration": "3:49",
+                "duration_seconds": 229,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpKebFhPnZatl9VNV5xUGaJJQWMix62VGLiqE4GeafZOWcsmn6l6gFhP79_j4Ght98qYXI1EmfhTn3pfxyfnv8bAWOqgbA"
+                }
+            },
+            {
+                "videoId": "T5k2-0yRzKc",
+                "title": "i wish i hated you",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "19M plays",
+                "trackNumber": 11,
+                "duration": "2:34",
+                "duration_seconds": 154,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpKdQFgiWxFwbXeItYtGcNeJzxUSJDWdoLjJ_mWGweTu1Ne82T4wXqrbFUZ20ukMqGwUKanH9JFp_hsXdwLO0-bey0WAwQ"
+                }
+            },
+            {
+                "videoId": "VtQorLzzbQw",
+                "title": "imperfect for you",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "25M plays",
+                "trackNumber": 12,
+                "duration": "3:03",
+                "duration_seconds": 183,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJkHLWiOXyGMPFRb7Lje4PqrMEBvHkWcS8B4ss8TNzVOHvY4gH5fEgiaJ1OLDmhZ7cCEX8Vp8kPDJmrepshPLyQ1fMG_w"
+                }
+            },
+            {
+                "videoId": "6XWMiMlZHfA",
+                "title": "ordinary things (feat. Nonna)",
+                "artists": [
+                    {
+                        "name": "Ariana Grande",
+                        "id": "UC0076UMUgEng8HORUw_MYHA"
+                    }
+                ],
+                "album": "eternal sunshine",
+                "likeStatus": "INDIFFERENT",
+                "inLibrary": false,
+                "thumbnails": null,
+                "isAvailable": true,
+                "isExplicit": false,
+                "videoType": "MUSIC_VIDEO_TYPE_OMV",
+                "views": "11M plays",
+                "trackNumber": 13,
+                "duration": "2:49",
+                "duration_seconds": 169,
+                "feedbackTokens": {
+                    "add": null,
+                    "remove": "AB9zfpJB78P4gGbCu-F49ZKIZBtttNOl8pR6pCcrZGNkSht3a4uQC9FZZA_2O2ABoo14gmuJuBqVEnGIAwWC7pGQNto_rEFTsw"
+                }
+            }
+        ],
+        "other_versions": [
+            {
+                "title": "eternal sunshine (slightly deluxe)",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UC0076UMUgEng8HORUw_MYHA",
+                        "name": "Ariana Grande"
+                    }
+                ],
+                "browseId": "MPREb_PAJOpgWiq5r",
+                "audioPlaylistId": "OLAK5uy_kQF1D-3BrTCPp38u3eZx5iPgbY2x8wIAg",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "eternal sunshine (slightly deluxe)",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UC0076UMUgEng8HORUw_MYHA",
+                        "name": "Ariana Grande"
+                    }
+                ],
+                "browseId": "MPREb_LutXfavORtV",
+                "audioPlaylistId": "OLAK5uy_komMWmxLf1aYY86_SbULxmTsXgXfJa-ng",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "eternal sunshine",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UC0076UMUgEng8HORUw_MYHA",
+                        "name": "Ariana Grande"
+                    }
+                ],
+                "browseId": "MPREb_P7RBVY9fHZj",
+                "audioPlaylistId": "OLAK5uy_neVwsS2-LRD440B4ZnEDQE_aC22Dimb3Y",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/vZQiaSGXhdrgd8z3poc2hxqV16JuNuqybgT0R6Qzc_k8n9FFRk9L2BYqVWVI8LyqIEkjmUUj6i8U6OeQ=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            }
+        ],
+        "related_recommendations": [
+            {
+                "title": "CHANEL",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCnZBreGKMYsBpE5Vqxevewg",
+                        "name": "Tyla"
+                    }
+                ],
+                "browseId": "MPREb_oPLoswn4bxE",
+                "audioPlaylistId": "OLAK5uy_m7GzYggvTuGfppaRjf6T3yhTazsqb5g7w",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/wSNmuL0pMJGF5vIMECyKDfH1dOBm9YO1zlQmKIvC8K3PPBeC5mzcSERddqCNcBu-XGhuHIrmasNeNKT3=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/wSNmuL0pMJGF5vIMECyKDfH1dOBm9YO1zlQmKIvC8K3PPBeC5mzcSERddqCNcBu-XGhuHIrmasNeNKT3=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "Stay",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCbYX3XHyAttpfYltoSZ5ZWw",
+                        "name": "Victoria Justice"
+                    }
+                ],
+                "browseId": "MPREb_bKaQxycbcAR",
+                "audioPlaylistId": "OLAK5uy_khXRwa1XR7e8iXt3-l-9ZiOuKwMnScQBk",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/YMDD86hsDxgVs7FxPwgF7AMw75tJY9G-nKVc_gAH9fI-v-xW36KIOK0BWXpfza7fEpzLsYLOEo6ujYQ80Q=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/YMDD86hsDxgVs7FxPwgF7AMw75tJY9G-nKVc_gAH9fI-v-xW36KIOK0BWXpfza7fEpzLsYLOEo6ujYQ80Q=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "TORI.",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UC7I7o6mLA1LKwvLkToTJpBw",
+                        "name": "Tori Kelly"
+                    }
+                ],
+                "browseId": "MPREb_SG3Affc32Yj",
+                "audioPlaylistId": "OLAK5uy_kcs44cBoxlpaqmuWOmuX-5TAi8KXIqX5U",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/h8eu4FuWIeUd3rETiOfoCUcjp3wN57IDEv79YIUtZIpJsomcdmj2uK2QAAUPAousOts4Vmkn6LLunZUa=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/h8eu4FuWIeUd3rETiOfoCUcjp3wN57IDEv79YIUtZIpJsomcdmj2uK2QAAUPAousOts4Vmkn6LLunZUa=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "Taste (From \u201cThe Idea of You\u201d)",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCk5Ptn9XMzMWAqv7MSset0w",
+                        "name": "August Moon"
+                    }
+                ],
+                "browseId": "MPREb_McHRurtZmjg",
+                "audioPlaylistId": "OLAK5uy_ktUmFzHR5Ri933BKPp-RdfZkNoYZOZGU4",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/kGfNKj-fDSsUgmoGMlGnisumAsQOfAYi12KqCwcdknVuB-7vHZS8hBSTAkVa8Hi7kcJmOE8kVuEeaQs=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/kGfNKj-fDSsUgmoGMlGnisumAsQOfAYi12KqCwcdknVuB-7vHZS8hBSTAkVa8Hi7kcJmOE8kVuEeaQs=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "Mumbai",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UC_uDhX2b-EGw0M9KqikifQA",
+                        "name": "Rhea Raj"
+                    }
+                ],
+                "browseId": "MPREb_hG6n1J7ayOw",
+                "audioPlaylistId": "OLAK5uy_mj5C3BkcAu-BnAhSSo4QpbWYAY_XbHdBI",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/I3BHsM8NMBaAlhKEYWLKGyWSwEO9fMmdZsd0Kt-K7S96PJKeYHhOAEUuIstS49Osaw1Tsf-OSnhjZWLddA=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/I3BHsM8NMBaAlhKEYWLKGyWSwEO9fMmdZsd0Kt-K7S96PJKeYHhOAEUuIstS49Osaw1Tsf-OSnhjZWLddA=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "Last Time I Saw You",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCTTcTeAszDGxALRSMkJH9FQ",
+                        "name": "Nicki Minaj"
+                    }
+                ],
+                "browseId": "MPREb_Q7SVEfk7RT8",
+                "audioPlaylistId": "OLAK5uy_kskhvdaMH_AqwoBXCPEnmWRH51JqOyXf4",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/MP6lG72h7G-ynpAD-Py3yyUMdw1TJG0SOV0aJ3Mfpx7Zrb0mAZK3LrFFe0Pj1YAsZCOjhPUiYA90cNK3=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/MP6lG72h7G-ynpAD-Py3yyUMdw1TJG0SOV0aJ3Mfpx7Zrb0mAZK3LrFFe0Pj1YAsZCOjhPUiYA90cNK3=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "Stars Are Blind (Paris' Version) (feat. Kim Petras)",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UCE2QjfEBxu2S0gmX0kpGd4Q",
+                        "name": "Paris Hilton"
+                    }
+                ],
+                "browseId": "MPREb_sZY1jvy1nSJ",
+                "audioPlaylistId": "OLAK5uy_ks_olg7-Geu17uUn33Ex1LKUPi_EO--ho",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/mNiDHI_dotxszMm0PBRoqt_c9NQXIydDoh79GVoqMfczTgMYkjcBxrGzc28Irf3_Oa9nPHAO8mrymUU2=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/mNiDHI_dotxszMm0PBRoqt_c9NQXIydDoh79GVoqMfczTgMYkjcBxrGzc28Irf3_Oa9nPHAO8mrymUU2=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "NEW DNA",
+                "type": "EP",
+                "artists": [
+                    {
+                        "id": "UCafINmoeAbZbK5M4dtQzBww",
+                        "name": "XG"
+                    }
+                ],
+                "browseId": "MPREb_SmygtyB4X65",
+                "audioPlaylistId": "OLAK5uy_m0PUphOhGkqOierUvaUvwK1e4V7OFxUGA",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/DBeiaf2bD9ymj9pvpCsobH4YMNA_Fo3gjYEcJQq_mrYayo0L5yVxXAKQJfH9NryqMfsVaOs2ZDqlTvls=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/DBeiaf2bD9ymj9pvpCsobH4YMNA_Fo3gjYEcJQq_mrYayo0L5yVxXAKQJfH9NryqMfsVaOs2ZDqlTvls=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": false
+            },
+            {
+                "title": "Got Me Started",
+                "type": "Single",
+                "artists": [
+                    {
+                        "id": "UC11RplprGRVVtT2tgtcYzWg",
+                        "name": "Troye Sivan"
+                    }
+                ],
+                "browseId": "MPREb_czW4WtYx2Ru",
+                "audioPlaylistId": "OLAK5uy_kd-0F4ETIyTnpJ5AXPdfa94C4fssC1cmc",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/Xd0W4bf49Z7x1Dx3NjRMRBaXyW7i6iXc2bGUcxzs-24iKUiV4yp4BiKRo9C8HWPVLpcQBqNPqvnZjjIy=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/Xd0W4bf49Z7x1Dx3NjRMRBaXyW7i6iXc2bGUcxzs-24iKUiV4yp4BiKRo9C8HWPVLpcQBqNPqvnZjjIy=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            },
+            {
+                "title": "Feed The Beast",
+                "type": "Album",
+                "artists": [
+                    {
+                        "id": "UCHG91TZ3WrWbZGD5sbkXsxg",
+                        "name": "Kim Petras"
+                    }
+                ],
+                "browseId": "MPREb_YiTtgckawhO",
+                "audioPlaylistId": "OLAK5uy_kpULtLbMvAUVPNug_uLSv_W5UgkLX7YTA",
+                "thumbnails": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/fzgGvbnk_Ex8Y91VYmfTFqqXj3LNXdMKWblI1L74nVfCbpdpYLERRNROFrZi83EiElx-orOygBI0v2jP=w226-h226-l90-rj",
+                        "width": 226,
+                        "height": 226
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/fzgGvbnk_Ex8Y91VYmfTFqqXj3LNXdMKWblI1L74nVfCbpdpYLERRNROFrZi83EiElx-orOygBI0v2jP=w544-h544-l90-rj",
+                        "width": 544,
+                        "height": 544
+                    }
+                ],
+                "isExplicit": true
+            }
+        ],
+        "duration_seconds": 2139
+    }
+]

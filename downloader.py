@@ -7,12 +7,14 @@ import re
 from mutagen.mp3 import MP3
 from mutagen.id3._frames import APIC
 import sys
+from discs import get_disc_info
 from getGenres import get_album_genres
 from mutagen.easyid3 import EasyID3
 from send2trash import send2trash
 from mutagen.mp4 import MP4, MP4Cover
 from datetime import datetime
 from lyrics import getLyrics
+from questionary import Choice
 
 DEFAULT_PATH = "~/Downloads"
 
@@ -35,35 +37,14 @@ def download_image(url, file_path):
         print(f"Failed to download image: {e}")
 
 
-def set_album_art(audio_file_path, image_file_path):
-    audio = MP3(audio_file_path)
-
-    if audio.tags is None:
-        audio.add_tags()
-        assert audio.tags is not None
-
-    audio.tags.delall("APIC")
-
-    with open(image_file_path, "rb") as img_file:
-        audio.tags.add(
-            APIC(
-                encoding=3,
-                mime="image/jpeg",
-                type=3,
-                desc="Cover",
-                data=img_file.read(),
-            )
-        )
-
-    audio.save()
-
-
 def update_metadata(
     file_path,
     title,
     album,
     track_number,
     total_tracks,
+    disc,
+    total_discs,
     album_artist,
     artists,
     cover_image_path,
@@ -80,6 +61,7 @@ def update_metadata(
     audio["aART"] = album_artist
     audio["\xa9ART"] = artists
     audio["trkn"] = [(track_number, total_tracks)]
+    audio["disk"] = [(disc, total_discs)]
     audio["\xa9gen"] = genre
     audio["\xa9day"] = year
     audio["rtng"] = [explicit]
@@ -92,8 +74,7 @@ def update_metadata(
 
     if cover_image_path:
         with open(cover_image_path, "rb") as img:
-            audio["covr"] = [
-                MP4Cover(img.read(), imageformat=MP4Cover.FORMAT_PNG)]
+            audio["covr"] = [MP4Cover(img.read(), imageformat=MP4Cover.FORMAT_PNG)]
 
     audio.save()
 
@@ -121,7 +102,7 @@ def download_song(video_id, output_path, index, title):
         "ignoreerrors": True,
         "no_warnings": True,
     }
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+    with yt_dlp.YoutubeDL(ydl_opts) as ydl:  # type: ignore[reportArgumentType]
         ydl.download([url])
 
 
@@ -170,8 +151,16 @@ def main():
         print("No albums found on YouTube Music.")
         return
 
-    first_album = results[0]
-    album_data = get_best_album_version_playlist_id(first_album["browseId"])
+    album_browse_id = questionary.select(
+        "Which version:",
+        choices=[
+            Choice(title=album["title"], value=album["browseId"])
+            for album in results[:4]
+        ],
+    ).ask()
+
+    # first_album = results[0]
+    album_data = get_best_album_version_playlist_id(album_browse_id)
 
     ALBUM = album_data["title"]
     ARTIST = album_data["artists"][0]["name"]
@@ -185,7 +174,17 @@ def main():
     cover_path = os.path.join(output_dir, "cover.jpg")
     download_image(COVER_URL, cover_path)
 
+    disc_track_counts = get_disc_info(ARTIST, ALBUM, len(album_data["tracks"]))
+
+    current_disc = 1
+    track_within_disc = 1  # per-disc numbering
+    cumulative_track = 1  # overall numbering
+
     for i, track in enumerate(album_data["tracks"], start=1):
+        if cumulative_track > sum(disc_track_counts[:current_disc]):
+            current_disc += 1
+            track_within_disc = 1
+
         title = track["title"]
         original_title = re.sub(
             r"\s*\(feat\..*?\)", "", title, flags=re.IGNORECASE
@@ -201,11 +200,18 @@ def main():
 
         if not video_id:
             print(f"Skipping {title} (no video ID)")
+            cumulative_track += 1
             continue
 
         genius_data = getLyrics(original_title, ARTIST)
 
-        print(f" {i:02d}/{len(album_data['tracks'])}: {title} - {video_id}")
+        print(
+            f"Disc {current_disc} Track {track_within_disc}/{
+                disc_track_counts[current_disc - 1]
+            } "
+            f"({cumulative_track}/{len(album_data['tracks'])}): {title} - {video_id}"
+        )
+        # print(f" {i:02d}/{len(album_data['tracks'])}: {title} - {video_id}")
         download_song(video_id, output_dir, i, title)
 
         file_path = os.path.join(output_dir, f"{i:02d} - {title}.m4a")
@@ -214,10 +220,12 @@ def main():
                 file_path=file_path,
                 title=original_title,
                 album=ALBUM,
-                track_number=i,
+                track_number=track_within_disc,
                 total_tracks=len(album_data["tracks"]),
+                disc=current_disc,
+                total_discs=len(disc_track_counts),
                 album_artist=ARTIST,
-                artists=", ".join([ARTIST] + genius_data["features"]),
+                artists=genius_data["artist"],
                 cover_image_path=cover_path,
                 genre=GENRES,
                 year=YEAR,
@@ -225,6 +233,8 @@ def main():
                 lyrics=genius_data["lyrics"],
                 video_id=video_id,
             )
+        cumulative_track += 1
+        track_within_disc += 1
     send2trash(cover_path)
 
 

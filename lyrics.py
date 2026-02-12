@@ -24,7 +24,9 @@ def getLyrics(songTitle: str, artist: str):
             if isinstance(artist, dict) and "name" in artist
         ]
 
-        data = {"features": features, "lyrics": song.lyrics}
-        return data
+        # data = {"features": features, "lyrics": song.lyrics}
+        artist = ", ".join([song.primary_artist["name"]] + features)
+        data2 = {"artist": artist, "lyrics": song.lyrics}
+        return data2
 
-    return {"features": [""], "lyrics": ""}
+    return {"artist": artist, "lyrics": ""}

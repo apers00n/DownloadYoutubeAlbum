@@ -1,0 +1,799 @@
+[
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "eternal sunshine (slightly deluxe)",
+    "type": "Album",
+    "playlistId": "OLAK5uy_kQF1D-3BrTCPp38u3eZx5iPgbY2x8wIAg",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Ariana Grande",
+        "id": "UC0076UMUgEng8HORUw_MYHA"
+      }
+    ],
+    "browseId": "MPREb_PAJOpgWiq5r",
+    "isExplicit": true,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/H-ig68cvu6hjQm9r2yGpCfeohF5cdA-nhGt0gFnF5Ps6B_S_oYeLLWm-Uj6NVFoF_FyVf1NqVPFOUrYf=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "eternal sunshine deluxe: brighter days ahead",
+    "type": "Album",
+    "playlistId": "OLAK5uy_lEAJHx_B4i2m5PkUedk1tPp8QqSVg767c",
+    "duration": null,
+    "year": "2025",
+    "artists": [
+      {
+        "name": "Ariana Grande",
+        "id": "UC0076UMUgEng8HORUw_MYHA"
+      }
+    ],
+    "browseId": "MPREb_qLld9kLieek",
+    "isExplicit": true,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/xi3VxeBR02HJBMhxOzOGLgVE-FNy-4Koxyrs9PLGe7pJnOodrGbl8KlQ7cA3AgG5Ykk_sprCGKf-CtCS=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/xi3VxeBR02HJBMhxOzOGLgVE-FNy-4Koxyrs9PLGe7pJnOodrGbl8KlQ7cA3AgG5Ykk_sprCGKf-CtCS=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/xi3VxeBR02HJBMhxOzOGLgVE-FNy-4Koxyrs9PLGe7pJnOodrGbl8KlQ7cA3AgG5Ykk_sprCGKf-CtCS=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/xi3VxeBR02HJBMhxOzOGLgVE-FNy-4Koxyrs9PLGe7pJnOodrGbl8KlQ7cA3AgG5Ykk_sprCGKf-CtCS=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "eternal sunshine (slightly deluxe and also live)",
+    "type": "Album",
+    "playlistId": "OLAK5uy_nsxPsHWeqt-zP_I5qsaOMaf7Glqzg0Nro",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Ariana Grande",
+        "id": "UC0076UMUgEng8HORUw_MYHA"
+      }
+    ],
+    "browseId": "MPREb_Fa9RqOH57rE",
+    "isExplicit": true,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/MMvfTfNPvkBlGZ8aQgz6a_RxNVZVJEvFAfevs1w1SHuuWqknJWaH85n5PBzWmph0dvQHpZQdmvVSC_Y=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/MMvfTfNPvkBlGZ8aQgz6a_RxNVZVJEvFAfevs1w1SHuuWqknJWaH85n5PBzWmph0dvQHpZQdmvVSC_Y=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/MMvfTfNPvkBlGZ8aQgz6a_RxNVZVJEvFAfevs1w1SHuuWqknJWaH85n5PBzWmph0dvQHpZQdmvVSC_Y=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/MMvfTfNPvkBlGZ8aQgz6a_RxNVZVJEvFAfevs1w1SHuuWqknJWaH85n5PBzWmph0dvQHpZQdmvVSC_Y=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "eternal sunshine deluxe: brighter days ahead (instrumental version)",
+    "type": "Album",
+    "playlistId": "OLAK5uy_nL3ueiPJ8Cln_BL4mFs8ctCaS-SOdn3ec",
+    "duration": null,
+    "year": "2025",
+    "artists": [
+      {
+        "name": "Ariana Grande",
+        "id": "UC0076UMUgEng8HORUw_MYHA"
+      }
+    ],
+    "browseId": "MPREb_Yxgu5EeZIlV",
+    "isExplicit": true,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/qKlP-hYjN8zRyf4P22OpvfLgPtv0wf-GsRqLgjC7ywwgnDkqKrR4yeX83k1U7cTltB2vbYRuh42jzsI=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/qKlP-hYjN8zRyf4P22OpvfLgPtv0wf-GsRqLgjC7ywwgnDkqKrR4yeX83k1U7cTltB2vbYRuh42jzsI=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/qKlP-hYjN8zRyf4P22OpvfLgPtv0wf-GsRqLgjC7ywwgnDkqKrR4yeX83k1U7cTltB2vbYRuh42jzsI=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/qKlP-hYjN8zRyf4P22OpvfLgPtv0wf-GsRqLgjC7ywwgnDkqKrR4yeX83k1U7cTltB2vbYRuh42jzsI=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Eternal Sunshine, Vol 1",
+    "type": "Album",
+    "playlistId": "OLAK5uy_kanI_KggBG6pU5mSysA94wNFH5rwPB-k4",
+    "duration": null,
+    "year": "2025",
+    "artists": [
+      {
+        "name": "Danny Vain",
+        "id": "UCrWsKaK6JrMJAu2sk8-vpDg"
+      }
+    ],
+    "browseId": "MPREb_mcy9d6cTqTg",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/DjNUJW6GnqOvpoVNMJ9x2xOCfnIIQS4UfRWwnmeeMZEfACW-x-TxauY-3Eqh_Ogo7v-uD2HIq7xTQMg=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/DjNUJW6GnqOvpoVNMJ9x2xOCfnIIQS4UfRWwnmeeMZEfACW-x-TxauY-3Eqh_Ogo7v-uD2HIq7xTQMg=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/DjNUJW6GnqOvpoVNMJ9x2xOCfnIIQS4UfRWwnmeeMZEfACW-x-TxauY-3Eqh_Ogo7v-uD2HIq7xTQMg=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/DjNUJW6GnqOvpoVNMJ9x2xOCfnIIQS4UfRWwnmeeMZEfACW-x-TxauY-3Eqh_Ogo7v-uD2HIq7xTQMg=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Eternal Sunshine Of The Spotless Mind",
+    "type": "Album",
+    "playlistId": "OLAK5uy_l7gfifPP8zlRZUgSlEulywfKVPtgH7c_E",
+    "duration": null,
+    "year": "2004",
+    "artists": [
+      {
+        "name": "Various Artists",
+        "id": null
+      }
+    ],
+    "browseId": "MPREb_VScEDi0tzSu",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/P9_o7f7gFsukI8IhTyGK3ve6tglXd2qDR9e2a0dmhRlpDCg0QGTdU-KZWTE4kNkKj87Akx7Mi_3zONA=w60-h60-s-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/P9_o7f7gFsukI8IhTyGK3ve6tglXd2qDR9e2a0dmhRlpDCg0QGTdU-KZWTE4kNkKj87Akx7Mi_3zONA=w120-h120-s-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/P9_o7f7gFsukI8IhTyGK3ve6tglXd2qDR9e2a0dmhRlpDCg0QGTdU-KZWTE4kNkKj87Akx7Mi_3zONA=w226-h226-s-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/P9_o7f7gFsukI8IhTyGK3ve6tglXd2qDR9e2a0dmhRlpDCg0QGTdU-KZWTE4kNkKj87Akx7Mi_3zONA=w544-h544-s-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Eternal Sunshine: Vol 2",
+    "type": "Album",
+    "playlistId": "OLAK5uy_lkwsKIifSbX1u-bkV5_yp6EXVSI4gVaFA",
+    "duration": null,
+    "year": "2025",
+    "artists": [
+      {
+        "name": "Danny Vain",
+        "id": "UCrWsKaK6JrMJAu2sk8-vpDg"
+      }
+    ],
+    "browseId": "MPREb_mc47FS9pPZT",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/BQ9tYYzAxRQDY9wEhtUWfNJR2AblkwYblquAx-rhZ1I6sr1UBZbN_aVNn5KHbkZPGWke9lNoxelPh4pp3Q=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/BQ9tYYzAxRQDY9wEhtUWfNJR2AblkwYblquAx-rhZ1I6sr1UBZbN_aVNn5KHbkZPGWke9lNoxelPh4pp3Q=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/BQ9tYYzAxRQDY9wEhtUWfNJR2AblkwYblquAx-rhZ1I6sr1UBZbN_aVNn5KHbkZPGWke9lNoxelPh4pp3Q=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/BQ9tYYzAxRQDY9wEhtUWfNJR2AblkwYblquAx-rhZ1I6sr1UBZbN_aVNn5KHbkZPGWke9lNoxelPh4pp3Q=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "type": "Album",
+    "playlistId": "OLAK5uy_ntC3m9eHhJ-R87Kz3frIkuIFlL_TCvZNI",
+    "duration": null,
+    "year": "2021",
+    "artists": [
+      {
+        "name": "\u25b3Sco\u25b3",
+        "id": "UC8zSozbX-tdCKoDYvBkl8jQ"
+      }
+    ],
+    "browseId": "MPREb_OUMrMs7iTeM",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/I_1dyMS1HP_1bQcsOCIT-cW53He_61yoTgZ7Kk4lJgIb96dzmPXPLufJosKPVSAB0jVOhKq9GezDFoTa=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/I_1dyMS1HP_1bQcsOCIT-cW53He_61yoTgZ7Kk4lJgIb96dzmPXPLufJosKPVSAB0jVOhKq9GezDFoTa=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/I_1dyMS1HP_1bQcsOCIT-cW53He_61yoTgZ7Kk4lJgIb96dzmPXPLufJosKPVSAB0jVOhKq9GezDFoTa=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/I_1dyMS1HP_1bQcsOCIT-cW53He_61yoTgZ7Kk4lJgIb96dzmPXPLufJosKPVSAB0jVOhKq9GezDFoTa=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "type": "Album",
+    "playlistId": "OLAK5uy_mj-R-ocNBpHB7hYSPKsHGC3kLKmgEyHOI",
+    "duration": null,
+    "year": "2022",
+    "artists": [
+      {
+        "name": "City Lofi Club",
+        "id": "UChIrXETGTYwzARjxm1SdroA"
+      }
+    ],
+    "browseId": "MPREb_HIAWAoDdq2E",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/xWEPx9vaikl2f6Vr1VLG3-JAPYGQ2MiHmTab8Xd_FuxSQFB7mJt2yY9Sh8Yn12huY3WvGebKDIPOTfIV=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/xWEPx9vaikl2f6Vr1VLG3-JAPYGQ2MiHmTab8Xd_FuxSQFB7mJt2yY9Sh8Yn12huY3WvGebKDIPOTfIV=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/xWEPx9vaikl2f6Vr1VLG3-JAPYGQ2MiHmTab8Xd_FuxSQFB7mJt2yY9Sh8Yn12huY3WvGebKDIPOTfIV=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/xWEPx9vaikl2f6Vr1VLG3-JAPYGQ2MiHmTab8Xd_FuxSQFB7mJt2yY9Sh8Yn12huY3WvGebKDIPOTfIV=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "eternal sunshine: A tribute collection",
+    "type": "Album",
+    "playlistId": "OLAK5uy_nsWDr9307NhGv0gBCCEjvA5J51Ov7soNg",
+    "duration": null,
+    "year": "2025",
+    "artists": [
+      {
+        "name": "Lucia",
+        "id": "UCk-ElXC87cskSBui1yW4ubQ"
+      }
+    ],
+    "browseId": "MPREb_JR8dCu1mY58",
+    "isExplicit": true,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/1mF62rtjuwMFnmBiNQWz9J31OTVhRiVnMMtA9rW8vQ5-ifKgUSxb2AjwsnTSSmt2_8-ZR96umkczAcCn=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/1mF62rtjuwMFnmBiNQWz9J31OTVhRiVnMMtA9rW8vQ5-ifKgUSxb2AjwsnTSSmt2_8-ZR96umkczAcCn=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/1mF62rtjuwMFnmBiNQWz9J31OTVhRiVnMMtA9rW8vQ5-ifKgUSxb2AjwsnTSSmt2_8-ZR96umkczAcCn=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/1mF62rtjuwMFnmBiNQWz9J31OTVhRiVnMMtA9rW8vQ5-ifKgUSxb2AjwsnTSSmt2_8-ZR96umkczAcCn=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Eternal Sunshine",
+    "type": "Album",
+    "playlistId": "OLAK5uy_ncrbBlOa6fwONkHK3OZHjDN_v--4J4_pY",
+    "duration": null,
+    "year": "2019",
+    "artists": [
+      {
+        "name": "Moonlit",
+        "id": "UCvMoW5ca4BcXGBNpgnsMGhw"
+      }
+    ],
+    "browseId": "MPREb_o8UbUFwqrT2",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/QJY61DHYqVXT__M6Hkupcfzzo_s92-nbxwWaNJtek8_qYfi_APrpvdlF0jL0xcc1aLgErDw3vS7Pqak-=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/QJY61DHYqVXT__M6Hkupcfzzo_s92-nbxwWaNJtek8_qYfi_APrpvdlF0jL0xcc1aLgErDw3vS7Pqak-=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/QJY61DHYqVXT__M6Hkupcfzzo_s92-nbxwWaNJtek8_qYfi_APrpvdlF0jL0xcc1aLgErDw3vS7Pqak-=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/QJY61DHYqVXT__M6Hkupcfzzo_s92-nbxwWaNJtek8_qYfi_APrpvdlF0jL0xcc1aLgErDw3vS7Pqak-=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Eternal Sunshine: Piano Instrumentals",
+    "type": "Album",
+    "playlistId": "OLAK5uy_nBIuD-kbR-tYL6Ud-viPg89u4Cu37RCrs",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Minnz Piano",
+        "id": "UCGvb7nK760UH26CTJCxjMSA"
+      }
+    ],
+    "browseId": "MPREb_CUeSg53btLo",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/f3O3Fv-CkpVHQISr2UobcD4Pg-7udvuMuCmcBhCXZCMuINlOVl-xdM66FBYyp2Ca-Mzo8FnPyloExlk=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/f3O3Fv-CkpVHQISr2UobcD4Pg-7udvuMuCmcBhCXZCMuINlOVl-xdM66FBYyp2Ca-Mzo8FnPyloExlk=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/f3O3Fv-CkpVHQISr2UobcD4Pg-7udvuMuCmcBhCXZCMuINlOVl-xdM66FBYyp2Ca-Mzo8FnPyloExlk=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/f3O3Fv-CkpVHQISr2UobcD4Pg-7udvuMuCmcBhCXZCMuINlOVl-xdM66FBYyp2Ca-Mzo8FnPyloExlk=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Eternal Sunshine: Relaxing Music for the Spotless Mind",
+    "type": "Album",
+    "playlistId": "OLAK5uy_mC9ODbfQJAXTGNs-jt-Nk9kGBKGnqehbs",
+    "duration": null,
+    "year": "2016",
+    "artists": [
+      {
+        "name": "Meditative Music Guru",
+        "id": "UCyX0TcJ20FifnGP3M6J-IXQ"
+      },
+      {
+        "name": "Relajacion Del Mar",
+        "id": "UCdJUiTULXBqycdTEJxpba3g"
+      },
+      {
+        "name": "Relaxed Piano Music",
+        "id": "UCAeP0Fwz3MfeYaKV2h4G4jw"
+      }
+    ],
+    "browseId": "MPREb_n1ed04gSkiB",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/wSs6ZGyUIu-PWyZ0IEpxhvLOavj5LU4nGS7xFpTr3ZMz4QCzSLadCx079wj6WINgyVtV_gErtdqRpVY=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/wSs6ZGyUIu-PWyZ0IEpxhvLOavj5LU4nGS7xFpTr3ZMz4QCzSLadCx079wj6WINgyVtV_gErtdqRpVY=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/wSs6ZGyUIu-PWyZ0IEpxhvLOavj5LU4nGS7xFpTr3ZMz4QCzSLadCx079wj6WINgyVtV_gErtdqRpVY=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/wSs6ZGyUIu-PWyZ0IEpxhvLOavj5LU4nGS7xFpTr3ZMz4QCzSLadCx079wj6WINgyVtV_gErtdqRpVY=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Eternal Sunshine",
+    "type": "Album",
+    "playlistId": "OLAK5uy_mkG3983OuleeRCWptPXp8IBCg5wrvHfdA",
+    "duration": null,
+    "year": "2019",
+    "artists": [
+      {
+        "name": "fretrider",
+        "id": "UC-JJeFKGOS-9omIZ1SEQu1w"
+      }
+    ],
+    "browseId": "MPREb_EuoVtdSmsBP",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/kmoU1c5hk_s4tYtfQqkFd818deG4ejTFmbQvncOJJmD-P5wvdmLHz1wHk8G3D_7cCexelZgS8XALpdf-VA=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/kmoU1c5hk_s4tYtfQqkFd818deG4ejTFmbQvncOJJmD-P5wvdmLHz1wHk8G3D_7cCexelZgS8XALpdf-VA=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/kmoU1c5hk_s4tYtfQqkFd818deG4ejTFmbQvncOJJmD-P5wvdmLHz1wHk8G3D_7cCexelZgS8XALpdf-VA=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/kmoU1c5hk_s4tYtfQqkFd818deG4ejTFmbQvncOJJmD-P5wvdmLHz1wHk8G3D_7cCexelZgS8XALpdf-VA=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "eternal sunshine (Piano Instrumental)",
+    "type": "Album",
+    "playlistId": "OLAK5uy_ki5INqpFExXeWNasaouaSIO6sap6sADIw",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Peaceful Noise",
+        "id": "UCOKxqScHu9QS1oNMUX7fdqQ"
+      }
+    ],
+    "browseId": "MPREb_IbPALUjEtGu",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/PTWuEdRQSlLSZD4rE9EWZsr__mlR0rdN1_T0thT6PZKUNj0OhnZt6v6yJP1y-e9yMdEvrgpXCHy7I6lc=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/PTWuEdRQSlLSZD4rE9EWZsr__mlR0rdN1_T0thT6PZKUNj0OhnZt6v6yJP1y-e9yMdEvrgpXCHy7I6lc=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/PTWuEdRQSlLSZD4rE9EWZsr__mlR0rdN1_T0thT6PZKUNj0OhnZt6v6yJP1y-e9yMdEvrgpXCHy7I6lc=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/PTWuEdRQSlLSZD4rE9EWZsr__mlR0rdN1_T0thT6PZKUNj0OhnZt6v6yJP1y-e9yMdEvrgpXCHy7I6lc=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Eternal Sunshine Of The Spotless Mind",
+    "type": "Album",
+    "playlistId": "OLAK5uy_mDAttsE-jQHRm_OYcwAiFhxU1AtG_pBlU",
+    "duration": null,
+    "year": "2025",
+    "artists": [
+      {
+        "name": "Rasheed",
+        "id": "UCC0hP9YPEtlALe1BSpT6RUQ"
+      }
+    ],
+    "browseId": "MPREb_gkVDwZEQWfA",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/l7EhYuHF4s_5AUQX49If5xrXOv6E_j-eC92i0UhPgVxMvNixtM4S8qBiWbdXS1L9DHKlK5CQ0dh3fIkQ=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/l7EhYuHF4s_5AUQX49If5xrXOv6E_j-eC92i0UhPgVxMvNixtM4S8qBiWbdXS1L9DHKlK5CQ0dh3fIkQ=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/l7EhYuHF4s_5AUQX49If5xrXOv6E_j-eC92i0UhPgVxMvNixtM4S8qBiWbdXS1L9DHKlK5CQ0dh3fIkQ=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/l7EhYuHF4s_5AUQX49If5xrXOv6E_j-eC92i0UhPgVxMvNixtM4S8qBiWbdXS1L9DHKlK5CQ0dh3fIkQ=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Eternal Sunshine",
+    "type": "Album",
+    "playlistId": "OLAK5uy_nPgTASB5gc6CddP9ACTqICha5n6RpljKc",
+    "duration": null,
+    "year": "2023",
+    "artists": [
+      {
+        "name": "\uba5c\ub85c\uc6b0 (Mellow)",
+        "id": "UCN991U-mKMkmvjHpG7QRgFg"
+      }
+    ],
+    "browseId": "MPREb_sN8fLIwKUlS",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/hyXrpaf0vOcqA3Q-xFa28l2NdNijonGIfE37si8iF_TiqQipWj6pF4v72qvgsW0WNkplgs72y1QGLV0=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/hyXrpaf0vOcqA3Q-xFa28l2NdNijonGIfE37si8iF_TiqQipWj6pF4v72qvgsW0WNkplgs72y1QGLV0=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/hyXrpaf0vOcqA3Q-xFa28l2NdNijonGIfE37si8iF_TiqQipWj6pF4v72qvgsW0WNkplgs72y1QGLV0=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/hyXrpaf0vOcqA3Q-xFa28l2NdNijonGIfE37si8iF_TiqQipWj6pF4v72qvgsW0WNkplgs72y1QGLV0=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Eternal Sunshine: Vacation Vibe, Relaxing Summer Beats",
+    "type": "Album",
+    "playlistId": "OLAK5uy_kEj8WmctkHvLS0TD9ssYoABzn9qG9-x7I",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Summer Beats DJ Crew",
+        "id": "UCcgn9delFhn8SuvYCr8-dQA"
+      },
+      {
+        "name": "DJ Grooves del Sol",
+        "id": "UC92sAcKBVVoILhdk8ymezPg"
+      },
+      {
+        "name": "Max Coastline",
+        "id": "UCl26v9_oaE9EqbHQRY-erxQ"
+      }
+    ],
+    "browseId": "MPREb_D9X1dZVuafM",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/sqrh27DOTIZUkKnUJ4nVsrnZ2c1T1-Vz_qRvzl6TM0yQ2yCAfeeoXqVBuKBjdj8r9yLzfkaCPwTAVO7l=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/sqrh27DOTIZUkKnUJ4nVsrnZ2c1T1-Vz_qRvzl6TM0yQ2yCAfeeoXqVBuKBjdj8r9yLzfkaCPwTAVO7l=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/sqrh27DOTIZUkKnUJ4nVsrnZ2c1T1-Vz_qRvzl6TM0yQ2yCAfeeoXqVBuKBjdj8r9yLzfkaCPwTAVO7l=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/sqrh27DOTIZUkKnUJ4nVsrnZ2c1T1-Vz_qRvzl6TM0yQ2yCAfeeoXqVBuKBjdj8r9yLzfkaCPwTAVO7l=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Eternal Sunshine",
+    "type": "Album",
+    "playlistId": "OLAK5uy_lu17AEHipOeHJ4H9LxlVHqje4_Fji1HVU",
+    "duration": null,
+    "year": "2025",
+    "artists": [
+      {
+        "name": "WILD WEST RABBIT",
+        "id": "UCqeQ2pMpOWpcOHNaNuia6GA"
+      }
+    ],
+    "browseId": "MPREb_V4r8M8eNqz9",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/FAq2aRpNAljO3w8xz1Q8KkudoSl_9N8zgz6JdtLSTbhmGaNAwIpNMQ-l3QE_rqfK5cBKijzdcr_168IO=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/FAq2aRpNAljO3w8xz1Q8KkudoSl_9N8zgz6JdtLSTbhmGaNAwIpNMQ-l3QE_rqfK5cBKijzdcr_168IO=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/FAq2aRpNAljO3w8xz1Q8KkudoSl_9N8zgz6JdtLSTbhmGaNAwIpNMQ-l3QE_rqfK5cBKijzdcr_168IO=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/FAq2aRpNAljO3w8xz1Q8KkudoSl_9N8zgz6JdtLSTbhmGaNAwIpNMQ-l3QE_rqfK5cBKijzdcr_168IO=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Eternal Sunshine",
+    "type": "Album",
+    "playlistId": "OLAK5uy_mVb35cXutEEMFdZLgNeIvgx3VfogFWCo4",
+    "duration": null,
+    "year": "2023",
+    "artists": [
+      {
+        "name": "R-Mix",
+        "id": "UC8Gz4Fpc-VF5TaSdzsR6g-w"
+      }
+    ],
+    "browseId": "MPREb_aBjSCSR7ocq",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/LFRTW5M6elWTSrQ77-CsJgioXXWeb4g50LqEy5wO_IkubQcjF7fcYy-a3uAzkVmFQgFFMcZqSk-yNbY=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/LFRTW5M6elWTSrQ77-CsJgioXXWeb4g50LqEy5wO_IkubQcjF7fcYy-a3uAzkVmFQgFFMcZqSk-yNbY=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/LFRTW5M6elWTSrQ77-CsJgioXXWeb4g50LqEy5wO_IkubQcjF7fcYy-a3uAzkVmFQgFFMcZqSk-yNbY=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/LFRTW5M6elWTSrQ77-CsJgioXXWeb4g50LqEy5wO_IkubQcjF7fcYy-a3uAzkVmFQgFFMcZqSk-yNbY=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  }
+]
+
